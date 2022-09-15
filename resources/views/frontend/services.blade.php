@@ -14,10 +14,14 @@
                         <div class="col-lg-6">
                             <div class="breadcrumbs-wrap mb-48">
                                 <h2 class="page-title">
-                                    We build modern experiences
+                                    Our Services
                                 </h2>
-                                <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
-                                    pulvinar integer neque them volute pateget.</p>
+                                <p class="description">
+                                    With the help of our selection of digital marketing services, you may reach customers at
+                                    every stage of the sales process. Our digital solutions enable you to boost your brand's
+                                    exposure across search, social media, display, and more, whether as a stand-alone effort
+                                    or as a coordinated element of an integrated performance marketing strategy.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -43,12 +47,18 @@
             <div class="container custom">
                 <div class="sec-title text-center mb-55 md-mb-35">
                     <span class="sub-text">
-                        What We Do
+                        What We Do?
                     </span>
                     <h2 class="title">
                         Services we can<br>
                         help you.
                     </h2>
+                    <p class="my-4">
+                        We give your business the right breakthrough with the most productive digital marketing solutions.
+                        We are dedicated to offering you <br> top-notch services that provide superior business outcomes.
+                        Check
+                        out what we have got in our depot for you.
+                    </p>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 mb-35">
@@ -59,8 +69,9 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Digital Marketing</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
+                                    <h2 class="title"><a href="{{ route('digital-marketing') }}">Digital Marketing</a></h2>
+                                    <p class="services-txt">
+                                        Our digital marketing experts curate bespoke strategies for brands.
                                     </p>
                                     <div class="services-button">
                                         <a href="{{ route('digital-marketing') }}">
@@ -82,8 +93,9 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Video Production</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
+                                    <h2 class="title"><a href="{{ route('video-production') }}">Video Production</a></h2>
+                                    <p class="services-txt">
+                                        We produce engaging animated videos that enthrall the audiences.
                                     </p>
                                     <div class="services-button">
                                         <a href="{{ route('video-production') }}">
@@ -105,8 +117,9 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Graphics Design</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
+                                    <h2 class="title"><a href="{{ route('graphics-design') }}">Graphics Design</a></h2>
+                                    <p class="services-txt">
+                                        Our creative designers bring visions to life through graphic design.
                                     </p>
                                     <div class="services-button">
                                         <a href="{{ route('graphics-design') }}">
@@ -128,7 +141,7 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">UX Design</a></h2>
+                                    <h2 class="title"><a href="{{ route('ux-design') }}">UX Design</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -151,8 +164,9 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Web Designing</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
+                                    <h2 class="title"><a href="{{ route('web-design') }}">Web Designing</a></h2>
+                                    <p class="services-txt">
+                                        We design websites that appeal to audiences and are user-friendly.
                                     </p>
                                     <div class="services-button">
                                         <a href="{{ route('web-design') }}">
@@ -174,8 +188,9 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Web Development</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
+                                    <h2 class="title"><a href="{{ route('web-development') }}">Web Development</a></h2>
+                                    <p class="services-txt">
+                                        Our website developers create responsive and interactive websites.
                                     </p>
                                     <div class="services-button">
                                         <a href="{{ route('web-development') }}">
@@ -189,7 +204,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 sm-mb-35">
+                    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 40px;">
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
@@ -197,8 +212,10 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Mobile App Development</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
+                                    <h2 class="title"><a href="{{ route('app-development') }}">Mobile App
+                                            Development</a></h2>
+                                    <p class="services-txt">
+                                        We build mobile applications that help brands achieve their business goals.
                                     </p>
                                     <div class="services-button">
                                         <a href="{{ route('app-development') }}">
@@ -212,7 +229,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-4 col-md-6" style="margin-top: 40px;">
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
@@ -220,8 +237,9 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">eCommerce</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
+                                    <h2 class="title"><a href="{{ route('ecom') }}">eCommerce</a></h2>
+                                    <p class="services-txt">
+                                        We work on every eCommerce platforms and help brands to get clients.
                                     </p>
                                     <div class="services-button">
                                         <a href="{{ route('ecom') }}">
@@ -235,7 +253,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-4 col-md-6" style="margin-top: 40px;">
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
@@ -243,8 +261,9 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">SEO</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
+                                    <h2 class="title"><a href="{{ route('seo') }}">SEO</a></h2>
+                                    <p class="services-txt">
+                                        With our SEO services, brands witness their websites ranking on Google’s first page.
                                     </p>
                                     <div class="services-button">
                                         <a href="{{ route('seo') }}">
@@ -276,41 +295,41 @@
                         <div class="sec-title mb-45 md-mb-25">
                             <span class="sub-text text3">Advantage</span>
                             <h2 class="title white-color pb-30">
-                                We Help Innovators Bring Their Business To Life
+                                One-Stop Solution for All Your Digital Marketing Needs
                             </h2>
                             <p class="desc desc3">
                                 I create digital ideas that are bigger, bolder, braver and better. We believe in good ideas
-                                flexibility and precission We’re world’s Our Special Team. Desktop publishing packages
+                                flexibility and precission We’re world’s Our Special Team.
                             </p>
                         </div>
                         <!-- Skillbar Section Start -->
                         <div class="cl-skill-bar">
                             <!-- Start Skill Bar -->
-                            <span class="skillbar-title">Figma</span>
+                            <span class="skillbar-title">Graphics Designing</span>
                             <div class="skillbar" data-percent="95">
                                 <p class="skillbar-bar"></p>
                                 <span class="skill-bar-percent">95%</span>
                             </div>
                             <!-- Start Skill Bar -->
-                            <span class="skillbar-title">Adobe XD</span>
-                            <div class="skillbar" data-percent="65">
+                            <span class="skillbar-title">Website Designing & Development</span>
+                            <div class="skillbar" data-percent="90">
                                 <p class="skillbar-bar"></p>
-                                <span class="skill-bar-percent">65%</span>
+                                <span class="skill-bar-percent">90%</span>
                             </div>
                             <!-- Start Skill Bar -->
-                            <span class="skillbar-title">Sketch</span>
+                            <span class="skillbar-title">Digital Marketing</span>
                             <div class="skillbar" data-percent="85">
                                 <p class="skillbar-bar"></p>
                                 <span class="skill-bar-percent">85%</span>
                             </div>
                             <!-- Start Skill Bar -->
-                            <span class="skillbar-title">Adobe Photosho & Illustrator</span>
+                            <span class="skillbar-title">Search Engine Optimization</span>
                             <div class="skillbar" data-percent="70">
                                 <p class="skillbar-bar"></p>
                                 <span class="skill-bar-percent">70%</span>
                             </div>
                             <!-- Start Skill Bar -->
-                            <span class="skillbar-title">Adobe After Effect</span>
+                            <span class="skillbar-title">Video Productions</span>
                             <div class="skillbar" data-percent="80">
                                 <p class="skillbar-bar"></p>
                                 <span class="skill-bar-percent">80%</span>
@@ -322,92 +341,12 @@
             </div>
             <div class="skill-animation">
                 <div class="skill-animate">
-                    <img class="scale" src="{{ asset('assets/frontend/images/about/about-shape2.png') }}" alt="Images">
+                    <img class="scale" src="{{ asset('assets/frontend/images/about/about-shape2.png') }}"
+                        alt="Images">
                 </div>
             </div>
         </div>
         <!-- Skillbar Choose End -->
-
-        <!-- Project Start -->
-        <div class="rs-project project-style1 project-modify10 pt-145 pb-150 md-pt-75 md-pb-80">
-            <div class="container">
-                <div class="row y-middle">
-                    <div class="col-lg-6 mb-50">
-                        <div class="sec-title">
-                            <span class="sub-text primary-color">
-                                portfolio
-                            </span>
-                            <h2 class="title">
-                                Our latest projects
-                            </h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="project-button pro-btn4 pro-orange text-right mt--35 text-right md-left md-mb-70">
-                            <a class="portfolio-single-column.html" href="contact.html">
-                                See All Project
-                                <i class="fa fi fi-rr-arrow-right"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 mb-30">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="portfolio-single-column.html">
-                                    <img src="{{ asset('assets/frontend/images/project/style1/port1.jpg') }}" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="portfolio-single-column.html">Branding</a></span>
-                                <h3 class="title"><a href="portfolio-single-column.html">Webi UI Redesign</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mb-30">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="portfolio-single-column.html">
-                                    <img src="{{ asset('assets/frontend/images/project/style1/port2.jpg') }}" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="portfolio-single-column.html">Branding</a></span>
-                                <h3 class="title"><a href="portfolio-single-column.html">Book Cover</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 md-mb-30">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="portfolio-single-column.html">
-                                    <img src="{{ asset('assets/frontend/images/project/style1/port3.jpg') }}" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="portfolio-single-column.html">Branding</a></span>
-                                <h3 class="title"><a href="portfolio-single-column.html">Mockup Design</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="portfolio-single-column.html">
-                                    <img src="{{ asset('assets/frontend/images/project/style1/port4.jpg') }}" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="portfolio-single-column.html">Branding</a></span>
-                                <h3 class="title"><a href="portfolio-single-column.html">Nike Air Max</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Project End -->
 
         <!-- Cta Start -->
         <div class="rs-cta cta-style1  blue-bg pt-145 pb-145">

@@ -305,7 +305,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 sm-mb-35">
+                    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 20px;">
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
@@ -313,7 +313,7 @@
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Mobile App Development</a></h2>
+                                    <h2 class="title"><a href="{{ route('app-development') }}">Mobile App Development</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -328,7 +328,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 sm-mb-35">
+                    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 20px;">
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
@@ -351,7 +351,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 sm-mb-35">
+                    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 20px;">
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
@@ -445,9 +445,7 @@
                                                 alt="Images">
                                         </div>
                                         <div class="services-content">
-                                            <h2 class="title">Brand Strategy</h2>
-                                            <p class="services-txt">Ullamcorper malesuada proin the nunc ipsum moved.
-                                            </p>
+                                            <h2 class="title">Innovation is our key</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -460,9 +458,7 @@
                                                 alt="Images">
                                         </div>
                                         <div class="services-content">
-                                            <h2 class="title">Art Direction</h2>
-                                            <p class="services-txt">Ullamcorper malesuada proin the nunc ipsum moved.
-                                            </p>
+                                            <h2 class="title">Quality Matters</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -475,9 +471,7 @@
                                                 alt="Images">
                                         </div>
                                         <div class="services-content">
-                                            <h2 class="title">UI/UX Design</h2>
-                                            <p class="services-txt">Ullamcorper malesuada proin the nunc ipsum moved.
-                                            </p>
+                                            <h2 class="title">Happy Clients</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -490,9 +484,7 @@
                                                 alt="Images">
                                         </div>
                                         <div class="services-content">
-                                            <h2 class="title">Video Production</h2>
-                                            <p class="services-txt">Ullamcorper malesuada proin the nunc ipsum moved.
-                                            </p>
+                                            <h2 class="title">Offices World Wide</h2>
                                         </div>
                                     </div>
                                 </div>

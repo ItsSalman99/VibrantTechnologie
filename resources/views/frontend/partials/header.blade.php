@@ -8,7 +8,7 @@
                 <div class="row-table">
                     <div class="col-cell header-logo">
                         <div class="logo-area">
-                            <a href="index.html">
+                            <a href="/">
                                 <img class="normal-logo" src="{{ asset('assets/frontend/images/logo-light.png') }}"
                                     alt="logo">
                                 <img class="sticky-logo" src="{{ asset('assets/frontend/images/logo.png') }}"
@@ -25,13 +25,13 @@
                                             <a href="/">Home</a>
                                         </li>
                                         <li>
-                                            <a>About</a>
+                                            <a href="{{ route('about') }}">About</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('services') }}">Services</a>
                                         </li>
                                         <li>
-                                            <a>Contact</a>
+                                            <a href="{{ route('contact') }}">Contact</a>
                                         </li>
                                     </ul> <!-- //.nav-menu -->
                                 </nav>
@@ -70,7 +70,7 @@
             </div>
             <div class="rs-offcanvas-inner">
                 <div class="canvas-logo">
-                    <a href="index.html"><img src="{{ asset('assets/frontend/images/logo.png') }}" alt="logo"></a>
+                    <a href="/"><img src="{{ asset('assets/frontend/images/logo.png') }}" alt="logo"></a>
                 </div>
                 <div class="offcanvas-text">
                     <p>Suspendisse interdum consectetur libero id. Fermentum leo vel orci porta non. Euismod
@@ -130,8 +130,10 @@
                 </a>
             </div>
             <ul class="nav-menu">
+                <li>
+                    <a href="/">Home</a>
+                </li>
                 <li class="menu-item-has-children current-menu-item">
-                    <a href="index.html">Home</a>
                     <ul class="sub-menu">
                         <li class="menu-item-has-children">
                             <a href="#">Multipages O1</a>

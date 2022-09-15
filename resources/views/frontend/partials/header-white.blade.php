@@ -8,7 +8,7 @@
                 <div class="row-table">
                     <div class="col-cell header-logo">
                         <div class="logo-area">
-                            <a href="index.html">
+                            <a href="/">
                                 <img class="normal-logo" src="{{ asset('assets/frontend/images/logo.png') }}"
                                     alt="logo">
                                 <img class="sticky-logo" src="{{ asset('assets/frontend/images/logo.png') }}"
@@ -25,13 +25,13 @@
                                             <a href="/">Home</a>
                                         </li>
                                         <li>
-                                            <a>About</a>
+                                            <a href="{{ route('about') }}">About</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('services') }}">Services</a>
                                         </li>
                                         <li>
-                                            <a>Contact</a>
+                                            <a href="{{ route('contact') }}">Contact</a>
                                         </li>
                                     </ul>
                                     <!-- //.nav-menu -->
@@ -88,7 +88,7 @@
             </div>
             <div class="rs-offcanvas-inner">
                 <div class="canvas-logo">
-                    <a href="index.html"><img src="assets/images/logo.png" alt="logo"></a>
+                    <a href="/"><img src="{{ asset('assets/frontend/images/logo.png') }}" alt="logo"></a>
                 </div>
                 <div class="offcanvas-text">
                     <p>Suspendisse interdum consectetur libero id. Fermentum leo vel orci porta non. Euismod viverra
@@ -148,37 +148,8 @@
                 </a>
             </div>
             <ul class="nav-menu">
-                <li class="menu-item-has-children">
-                    <a href="index.html">Home</a>
-                    <ul class="sub-menu">
-                        <li class="menu-item-has-children">
-                            <a href="#">Multipages O1</a>
-                            <ul class="sub-menu">
-                                <li><a href="index.html">Home 01</a></li>
-                                <li><a href="index-2.html">Home 02</a></li>
-                                <li><a href="index-3.html">Home 03</a></li>
-                                <li><a href="index-4.html">Home 04</a></li>
-                                <li><a href="index-5.html">Home 05</a></li>
-                                <li><a href="index-6.html">Home 06</a></li>
-                                <li><a href="index-7.html">Home 07</a></li>
-                                <li><a href="index-8.html">Home 08</a></li>
-                                <li><a href="index-9.html">Home 09</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children">
-                            <a href="#">Multipages O2</a>
-                            <ul class="sub-menu">
-                                <li><a href="index-10.html">Home 10</a></li>
-                                <li><a href="index-11.html">Home 11</a></li>
-                                <li><a href="index-12.html">Home 12</a></li>
-                                <li><a href="index-13.html">Home 13</a></li>
-                                <li><a href="index-14.html">Home 14</a></li>
-                                <li><a href="index-15.html">Home 15</a></li>
-                                <li><a href="index-16.html">Home 16</a></li>
-                                <li><a href="index-17.html">Home 17</a></li>
-                            </ul>
-                        </li>
-                    </ul>
+                <li>
+                    <a href="/">Home</a>
                 </li>
                 <li class="last-item menu-item-has-children">
                     <a href="#">About</a>

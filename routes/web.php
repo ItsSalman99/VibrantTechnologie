@@ -1,9 +1,14 @@
 <?php
 
+use App\Http\Controllers\ContactController;
 use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'index']);
+Route::get('/about-us', [HomeController::class, 'about'])->name('about');
+
+Route::get('/contact', [ContactController::class, 'index'])->name('contact');
+
 Route::get('/services', [HomeController::class, 'services'])->name('services');
 Route::get('/services/digital-marketing', [HomeController::class, 'DigitalMarketingService'])->name('digital-marketing');
 Route::get('/services/video-production', [HomeController::class, 'VideoProductionService'])->name('video-production');

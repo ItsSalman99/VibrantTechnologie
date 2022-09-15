@@ -27,7 +27,7 @@
                 <div class="row">
                     <div class="col-lg-3 pr-20 md-pr-15 md-mb-20">
                         <div class="footer-logo mb-85 md-mb-65">
-                            <a href="index.html"><img src="{{ asset('assets/frontend/images/logo-light.png') }}" alt=""></a>
+                            <a href="/"><img src="{{ asset('assets/frontend/images/logo-light.png') }}" alt=""></a>
                         </div>
                         <p class="widget-desc">You will get weekly update on Email</p>
                         <p>
