@@ -26,7 +26,7 @@
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="contact.html">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -51,7 +51,7 @@
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="contact.html">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -76,10 +76,10 @@
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="contact.html">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
                                         </li>
                                         {{-- <li>
-                                            <a class="readon orange-hire resume2" href="contact.html"><span
+                                            <a class="readon orange-hire resume2" href="{{ route('contact') }}"><span
                                                     class="btn-text">View Portfolio</span><i
                                                     class="fa flaticon-right-arrow"></i></a>
                                         </li> --}}
@@ -106,10 +106,10 @@
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="contact.html">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
                                         </li>
                                         {{-- <li>
-                                                            <a class="readon orange-hire resume2" href="contact.html"><span
+                                                            <a class="readon orange-hire resume2" href="{{ route('contact') }}"><span
                                                                     class="btn-text">View Portfolio</span><i
                                                                     class="fa flaticon-right-arrow"></i></a>
                                                         </li> --}}
@@ -136,10 +136,10 @@
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="contact.html">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
                                         </li>
                                         {{-- <li>
-                                                                            <a class="readon orange-hire resume2" href="contact.html"><span
+                                                                            <a class="readon orange-hire resume2" href="{{ route('contact') }}"><span
                                                                                     class="btn-text">View Portfolio</span><i
                                                                                     class="fa flaticon-right-arrow"></i></a>
                                                                         </li> --}}
@@ -171,11 +171,11 @@
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/icons1.png') }}"
+                                    <img src="{{ asset('assets/frontend/images/services/main-home/digital-marketing.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Digital Marketing</a></h2>
+                                    <h2 class="title"><a href="{{ route('digital-marketing') }}">Digital Marketing</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -194,11 +194,11 @@
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/icons2.png') }}"
+                                    <img src="{{ asset('assets/frontend/images/services/main-home/video-production.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Video Production</a></h2>
+                                    <h2 class="title"><a href="{{ route('video-production') }}">Video Production</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -217,11 +217,11 @@
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/icons3.png') }}"
+                                    <img src="{{ asset('assets/frontend/images/services/main-home/graphic-design.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Graphics Design</a></h2>
+                                    <h2 class="title"><a href="{{ route('graphics-design') }}">Graphics Design</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -240,11 +240,11 @@
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/icons4.png') }}"
+                                    <img src="{{ asset('assets/frontend/images/services/main-home/uiux-design.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">UX Design</a></h2>
+                                    <h2 class="title"><a href="{{ route('ux-design') }}">UX Design</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -263,11 +263,11 @@
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/icons5.png') }}"
+                                    <img src="{{ asset('assets/frontend/images/services/main-home/web-design.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Web Designing</a></h2>
+                                    <h2 class="title"><a href="{{ route('web-design') }}">Web Designing</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -286,11 +286,11 @@
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/icons5.png') }}"
+                                    <img src="{{ asset('assets/frontend/images/services/main-home/web-development.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">Web Development</a></h2>
+                                    <h2 class="title"><a href="{{ route('web-development') }}">Web Development</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -309,7 +309,7 @@
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/icons5.png') }}"
+                                    <img src="{{ asset('assets/frontend/images/services/main-home/app-development.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
@@ -332,11 +332,11 @@
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/icons6.png') }}"
+                                    <img src="{{ asset('assets/frontend/images/services/main-home/ecommerce.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">eCommerce</a></h2>
+                                    <h2 class="title"><a href="{{ route('ecom') }}">eCommerce</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -355,11 +355,11 @@
                         <div class="services-item">
                             <div class="services-wrap">
                                 <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/icons6.png') }}"
+                                    <img src="{{ asset('assets/frontend/images/services/main-home/seo.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="services-details.html">SEO</a></h2>
+                                    <h2 class="title"><a href="{{ route('digital-marketing') }}">SEO</a></h2>
                                     <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
                                     </p>
                                     <div class="services-button">
@@ -431,7 +431,7 @@
                                 our clients a clear route to success.
                             </p>
                             <div class="btn-part">
-                                <a class="readon red get-bdr get-white" href="services.html">Get Started</a>
+                                <a class="readon red get-bdr get-white" href="{{ route('contact') }}">Get Started</a>
                             </div>
                         </div>
                     </div>
@@ -496,206 +496,7 @@
         </div>
         <!-- Services Section End -->
 
-        <!-- Testimonial Section Start -->
-        <div id="rs-testimonial"
-            class="rs-testimonial testimonial-style2 testimonial-modify1 testi-red3-modify1 pt-115 pb-120 md-pt-70 md-pb-80">
-            <div class="container custom">
-                <div class="sec-title2 text-center mb-55 md-mb-40">
-                    <h2 class="title title3">
-                        What people’s about<br>saying!
-                    </h2>
-                    <p>
-                        Below shown are our top satisfied clients. We never negotiate on quality and ensure to deliver <br>
-                        quality services to our clients no matter what it takes.
-                    </p>
-                </div>
-                <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30"
-                    data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800"
-                    data-dots="true" data-nav="false" data-nav-speed="false" data-center-mode="false"
-                    data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false"
-                    data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2"
-                    data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="3"
-                    data-md-device-nav="false" data-md-device-dots="true">
-                    <div class="testimonial-item">
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{ asset('assets/frontend/images/testimonial/style1/testi1.png') }}"
-                                    alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Mark Agroiks</div>
-                                <span class="testi-title">CEO, Agrok Inc.</span>
-                            </div>
-                        </div>
-                        <div class="item-content-basic">
-                            <span>
-                                <img class="normal-img"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}"
-                                    alt="Testimonial">
-                                <img class="hover-logo"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote6.png') }}"
-                                    alt="Testimonial">
-                            </span>
-                            <p>I love your system. Agency is both attractive and highly adaptable. Man, this thing is
-                                getting better and better as I learn more about it. I am so pleased with this product.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{ asset('assets/frontend/images/testimonial/style1/testi2.png') }}"
-                                    alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Billu Gol</div>
-                                <span class="testi-title">CEO, Agrok Inc.</span>
-                            </div>
-                        </div>
-                        <div class="item-content-basic">
-                            <span>
-                                <img class="normal-img"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}"
-                                    alt="Testimonial">
-                                <img class="hover-logo"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote6.png') }}"
-                                    alt="Testimonial">
-                            </span>
-                            <p>I love your system. Agency is both attractive and highly adaptable. Man, this thing is
-                                getting better and better as I learn more about it. I am so pleased with this product.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{ asset('assets/frontend/images/testimonial/style1/testi3.png') }}"
-                                    alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Ani Jhon</div>
-                                <span class="testi-title">CEO, Apce.co</span>
-                            </div>
-                        </div>
-                        <div class="item-content-basic">
-                            <span>
-                                <img class="normal-img"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}"
-                                    alt="Testimonial">
-                                <img class="hover-logo"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote6.png') }}"
-                                    alt="Testimonial">
-                            </span>
-                            <p>I love your system. Agency is both attractive and highly adaptable. Man, this thing is
-                                getting better and better as I learn more about it. I am so pleased with this product.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{ asset('assets/frontend/images/testimonial/style1/testi1.png') }}"
-                                    alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Mark Agroiks</div>
-                                <span class="testi-title">CEO, Agrok Inc.</span>
-                            </div>
-                        </div>
-                        <div class="item-content-basic">
-                            <span>
-                                <img class="normal-img"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}"
-                                    alt="Testimonial">
-                                <img class="hover-logo"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote6.png') }}"
-                                    alt="Testimonial">
-                            </span>
-                            <p>I love your system. Agency is both attractive and highly adaptable. Man, this thing is
-                                getting better and better as I learn more about it. I am so pleased with this product.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{ asset('assets/frontend/images/testimonial/style1/testi2.png') }}"
-                                    alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Billu Gol</div>
-                                <span class="testi-title">CEO, Agrok Inc.</span>
-                            </div>
-                        </div>
-                        <div class="item-content-basic">
-                            <span>
-                                <img class="normal-img"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}"
-                                    alt="Testimonial">
-                                <img class="hover-logo"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote6.png') }}"
-                                    alt="Testimonial">
-                            </span>
-                            <p>I love your system. Agency is both attractive and highly adaptable. Man, this thing is
-                                getting better and better as I learn more about it. I am so pleased with this product.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{ asset('assets/frontend/images/testimonial/style1/testi3.png') }}"
-                                    alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Ani Jhon</div>
-                                <span class="testi-title">CEO, Apce.co</span>
-                            </div>
-                        </div>
-                        <div class="item-content-basic">
-                            <span>
-                                <img class="normal-img"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}"
-                                    alt="Testimonial">
-                                <img class="hover-logo"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote6.png') }}"
-                                    alt="Testimonial">
-                            </span>
-                            <p>I love your system. Agency is both attractive and highly adaptable. Man, this thing is
-                                getting better and better as I learn more about it. I am so pleased with this product.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="testimonial-item">
-                        <div class="testi-content">
-                            <div class="image-wrap">
-                                <img src="{{ asset('assets/frontend/images/testimonial/style1/testi1.png') }}"
-                                    alt="Testimonial">
-                            </div>
-                            <div class="testi-information">
-                                <div class="testi-name">Mark Agroiks</div>
-                                <span class="testi-title">CEO, Agrok Inc.</span>
-                            </div>
-                        </div>
-                        <div class="item-content-basic">
-                            <span>
-                                <img class="normal-img"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}"
-                                    alt="Testimonial">
-                                <img class="hover-logo"
-                                    src="{{ asset('assets/frontend/images/testimonial/style1/quote6.png') }}"
-                                    alt="Testimonial">
-                            </span>
-                            <p>I love your system. Agency is both attractive and highly adaptable. Man, this thing is
-                                getting better and better as I learn more about it. I am so pleased with this product.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Testimonial Section End -->
-
+        @include('frontend.partials.testimonial')
 
         <!-- Partner Start -->
         <div class="rs-partner partner-main-home pt-60 pb-20">
@@ -775,7 +576,7 @@
                         services with Swipy
                     </h2>
                     <div class="btn-part">
-                        <a class="readon red cta-contact" href="contact.html">Contact Us</a>
+                        <a class="readon red cta-contact" href="{{ route('contact') }}">Contact Us</a>
                     </div>
                 </div>
             </div>

@@ -14,10 +14,12 @@
                         <div class="col-lg-7">
                             <div class="breadcrumbs-wrap mb-48 md-mb-0">
                                 <h2 class="page-title">
-                                    Video Production
+                                    Video Production Services
                                 </h2>
-                                <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
-                                    pulvinar integer neque them volute pateget.</p>
+                                <p class="description">
+                                    High-quality video production content may boost engagement, foster trust, and deliver
+                                    value.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -52,14 +54,17 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="sec-title">
-                                <span class="sub-text primary-color">Services details</span>
+                                <span class="sub-text primary-color">Video Production</span>
                                 <h2 class="title pb-35">
-                                    Strategy for the digital brand.
+                                    Did You Know A Whopping 78% Off Online Users Watch Videos Online Every Week?
                                 </h2>
                                 <p class="desc pb-45">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est nibh, fermentum sit amet
-                                    libero vitae, aliquam dignissim dolor. Morbi commodo arcu velit, nec tempus ligula
-                                    dictum sagittis.
+                                    Giving your business a voice and a face through video marketing could be a significant
+                                    part of your digital marketing strategy. Your website also has significant SEO value.
+                                    Studies have publicized that landing pages with videos can increase conversion by 80%,
+                                    while emails with videos have click-through rates that are 200–300% higher.
+                                    Don't worry if you're unfamiliar with video or unsure where to start. Our department of
+                                    video production services can answer your inquiries.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -95,8 +100,7 @@
                 <div class="sec-title text-center mb-50 md-mb-30">
                     <span class="sub-text primary-color">work process</span>
                     <h2 class="title pb-35">
-                        Let’s Know Our Design<br>
-                        Process
+                        Use The Influence Of Video To Wow Your Audience.
                     </h2>
                 </div>
                 <div class="row y-middle">
@@ -111,12 +115,13 @@
                         <div class="sec-title">
                             <span class="sub-text primary-color">Process</span>
                             <h2 class="title pb-35">
-                                Analysis & Idea
+                                Delivering High-Quality Video Content
                             </h2>
                             <p class="desc pb-35">
-                                Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                pretium vitae.
+                                Rise the effectiveness of your digital marketing campaigns by utilizing video. We are a
+                                creative company that creates top-notch video content from beginning to end. To consistently
+                                "wow" your audience, our in-house production team can create, plan, direct, and edit the
+                                most appealing visual experience.
                             </p>
                             <ul class="check-lists check-style4">
                                 <li class="list-item">
@@ -147,12 +152,16 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Wireframs & Phototype
+                                    Why Choose Us For Your Next Video Project?
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium.
+                                    We are a professional full-service video production firm. Projects of every size and
+                                    genre are no problem for us. We have professional audio, gimbals/stabilizers, lighting,
+                                    and cameras. On the newest tools, post-production is carried out inside. We collaborate
+                                    with a group of talented writers, producers, directors, and cinematographers who have
+                                    the know-how to handle all facets of video production, from delivery to creative
+                                    services. Nevertheless of the size or scope of the project, we approach each one with
+                                    the highest expertise.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -196,14 +205,15 @@
                         </div>
                         <div class="col-lg-7 pl-60 md-pl-15">
                             <div class="sec-title">
-                                <span class="sub-text primary-color">Process</span>
+                                <span class="sub-text primary-color">Not Your Average Production Company</span>
                                 <h2 class="title pb-35">
-                                    Development
+                                    PRE-PRODUCTION
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    A critical stage of the manufacturing process is pre-production. It necessitates
+                                    thorough planning and preparation. We never show up for a video shoot without a clear
+                                    schedule in place and a clear idea of the footage we need to get. This is when we work
+                                    out the kinks and ensure the shoot is simple, reliable, and economical.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -235,12 +245,12 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Testing & Lunch
+                                    DELIVERY
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    The finished video is available in any format you like. We can export content to any
+                                    file type and post it internally to any available video hosting service (YouTube, Vimeo,
+                                    Twitter, Instagram, Facebook). Additionally, we may add the video to your website.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -277,54 +287,12 @@
         </div>
         <!-- Process Section End -->
 
-        <!-- Project Start -->
-        <div class="rs-project project-style1 project-modify10 pt-145 pb-150 md-pt-75 md-pb-80">
-            <div class="container">
-                <div class="sec-title text-center mb-50">
-                    <span class="sub-text primary-color">portfolio</span>
-                    <h2 class="title">
-                        Our Latest <span>Projects</span>
-                    </h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 md-mb-30">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port8.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Orla Branding</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port7.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Nike Ari Women</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Project End -->
-
         <!-- Cta Start -->
         <div class="rs-cta cta-style1  blue-bg pt-145 pb-145">
             <div class="container">
                 <div class="sec-title text-center">
                     <h2 class="title title3 white-color pb-45">
-                        Create stunning Design<br>
-                        services with Swipy
+                        A Professional Video Agency That Delivers
                     </h2>
                     <div class="btn-part">
                         <a class="readon orange contact" href="contact.html">Contact Us</a>
@@ -333,16 +301,16 @@
             </div>
             <div class="cta-animation">
                 <div class="animate-style one">
-                    <img class="scale" src="assets/images/cta/shape1.png" alt="">
+                    <img class="scale" src="{{ asset('assets/frontend/images/cta/shape1.png') }}" alt="">
                 </div>
                 <div class="animate-style two">
-                    <img class="scale" src="assets/images/cta/shape2.png" alt="">
+                    <img class="scale" src="{{ asset('assets/frontend/images/cta/shape2.png') }}" alt="">
                 </div>
                 <div class="animate-style three">
-                    <img class="horizontal" src="assets/images/cta/shape3.png" alt="">
+                    <img class="horizontal" src="{{ asset('assets/frontend/images/cta/shape3.png') }}" alt="">
                 </div>
                 <div class="animate-style four">
-                    <img class="spine" src="assets/images/cta/shape4.png" alt="">
+                    <img class="spine" src="{{ asset('assets/frontend/images/cta/shape4.png') }}" alt="">
                 </div>
             </div>
         </div>

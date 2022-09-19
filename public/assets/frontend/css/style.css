@@ -2452,7 +2452,7 @@ blockquote p {
 
 .full-width-header .rs-header .menu-area .logo-area img {
     transition: 0.4s;
-    max-height: 57px;
+    max-height: 100px;
 }
 
 .full-width-header .rs-header .menu-area .rs-menu-area {

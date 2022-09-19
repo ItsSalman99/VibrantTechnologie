@@ -14,10 +14,13 @@
                         <div class="col-lg-7">
                             <div class="breadcrumbs-wrap mb-48 md-mb-0">
                                 <h2 class="page-title">
-                                    Ecommerce Service
+                                    Ecommerce Services
                                 </h2>
-                                <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
-                                    pulvinar integer neque them volute pateget.</p>
+                                <p class="description">
+                                    To assist our ecommerce clients with a variety of issues and business objectives,
+                                    Vibrant Technologie provides a team of knowledgeable business advisors and skilled
+                                    programmers.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -52,14 +55,16 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="sec-title">
-                                <span class="sub-text primary-color">Services details</span>
+                                <span class="sub-text primary-color">Ecommerce Services</span>
                                 <h2 class="title pb-35">
-                                    Strategy for the digital brand.
+                                    eCommerce Services – Solutions for your Online Business
                                 </h2>
                                 <p class="desc pb-45">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est nibh, fermentum sit amet
-                                    libero vitae, aliquam dignissim dolor. Morbi commodo arcu velit, nec tempus ligula
-                                    dictum sagittis.
+                                    E-commerce offers are transparent to the user and subject to intense competition. The
+                                    constant struggle of keeping an eye on the market and creating original material with
+                                    added value for the user on the ongoing new product pages is what a website operator
+                                    faces. Doing this gives you a competitive edge while continuing to be visible to users
+                                    and search engines.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -95,8 +100,7 @@
                 <div class="sec-title text-center mb-50 md-mb-30">
                     <span class="sub-text primary-color">work process</span>
                     <h2 class="title pb-35">
-                        Let’s Know Our Design<br>
-                        Process
+                        Get Industry-Specific Ecommerce Store Development & Design Solutions!
                     </h2>
                 </div>
                 <div class="row y-middle">
@@ -111,12 +115,11 @@
                         <div class="sec-title">
                             <span class="sub-text primary-color">Process</span>
                             <h2 class="title pb-35">
-                                Analysis & Idea
+                                Optimization of Product Presentation and Product Search
                             </h2>
                             <p class="desc pb-35">
-                                Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                pretium vitae.
+                                How and where your products are presented in your store and the filter and search features
+                                are vital factors in how many people purchase from you and if they come back.
                             </p>
                             <ul class="check-lists check-style4">
                                 <li class="list-item">
@@ -147,12 +150,11 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Wireframs & Phototype
+                                    Product Descriptions
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium.
+                                    Each of your product pages becomes the ideal landing page for users and search engines
+                                    thanks to distinctive, SEO-friendly product descriptions.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -198,12 +200,11 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Development
+                                    Product Categorization & Tagging
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    To increase the discoverability of your offer in the store and on search engines,
+                                    precisely classify and mark each item from your store's variety with the right keywords.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -235,12 +236,12 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Testing & Lunch
+                                    Search Relevance
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    To improve the stored algorithms and the usability of your store, the results of search
+                                    requests made using the internal search feature of your store are evaluated depending on
+                                    the relevancy of the search term submitted.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -277,54 +278,12 @@
         </div>
         <!-- Process Section End -->
 
-        <!-- Project Start -->
-        <div class="rs-project project-style1 project-modify10 pt-145 pb-150 md-pt-75 md-pb-80">
-            <div class="container">
-                <div class="sec-title text-center mb-50">
-                    <span class="sub-text primary-color">portfolio</span>
-                    <h2 class="title">
-                        Our Latest <span>Projects</span>
-                    </h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 md-mb-30">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port8.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Orla Branding</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port7.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Nike Ari Women</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Project End -->
-
         <!-- Cta Start -->
         <div class="rs-cta cta-style1  blue-bg pt-145 pb-145">
             <div class="container">
                 <div class="sec-title text-center">
                     <h2 class="title title3 white-color pb-45">
-                        Create stunning Design<br>
-                        services with Swipy
+                        Ready to Start?
                     </h2>
                     <div class="btn-part">
                         <a class="readon orange contact" href="contact.html">Contact Us</a>

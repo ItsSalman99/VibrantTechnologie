@@ -14,10 +14,12 @@
                         <div class="col-lg-7">
                             <div class="breadcrumbs-wrap mb-48 md-mb-0">
                                 <h2 class="page-title">
-                                    Website Designing
+                                    Turn Clicks Into Customers With a Well-Optimized Website
                                 </h2>
-                                <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
-                                    pulvinar integer neque them volute pateget.</p>
+                                <p class="description">
+                                    With the help of the website design services provided by Vibrant Technologie, establish
+                                    your online presence today and learn about your market potential.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -52,14 +54,16 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="sec-title">
-                                <span class="sub-text primary-color">Services details</span>
+                                <span class="sub-text primary-color">Website Designing</span>
                                 <h2 class="title pb-35">
-                                    Strategy for the digital brand.
+                                    Showcase Your Thought Leadership Brand with Robust Web Design
                                 </h2>
                                 <p class="desc pb-45">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est nibh, fermentum sit amet
-                                    libero vitae, aliquam dignissim dolor. Morbi commodo arcu velit, nec tempus ligula
-                                    dictum sagittis.
+                                    Staying in touch with your regulars and potential clients is essential to take advantage
+                                    of new markets and grow your business in the modern digital environment. According to
+                                    statistics, 4.57 billion people use the internet regularly worldwide, or 59% of the
+                                    world's population. Before interacting with a company, 53% of members of this online
+                                    community research to be sure they are making the right choice.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -95,8 +99,7 @@
                 <div class="sec-title text-center mb-50 md-mb-30">
                     <span class="sub-text primary-color">work process</span>
                     <h2 class="title pb-35">
-                        Let’s Know Our Design<br>
-                        Process
+                        Superior Web Design Represents Your Company and Grows Your Business
                     </h2>
                 </div>
                 <div class="row y-middle">
@@ -111,12 +114,12 @@
                         <div class="sec-title">
                             <span class="sub-text primary-color">Process</span>
                             <h2 class="title pb-35">
-                                Analysis & Idea
+                                Transparent Prices For Award-Winning Web Design Services
                             </h2>
                             <p class="desc pb-35">
-                                Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                pretium vitae.
+                                If you choose our web design services, your company can rely on complete openness. Our staff
+                                gives your business full access to our web design costs and methods, from our personalized
+                                quotations through our earliest designs.
                             </p>
                             <ul class="check-lists check-style4">
                                 <li class="list-item">
@@ -147,12 +150,13 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Wireframs & Phototype
+                                    Website Page Creation
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium.
+                                    Our designers can produce the web pages your business needs to reach, educate, and
+                                    convert your target audience, whether you run an e-commerce store, a brick-and-mortar
+                                    establishment, or a service provider. We provide content marketing services as a
+                                    full-service digital marketing agency to strengthen your strategy.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -198,12 +202,13 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Development
+                                    Customized Style
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    Your website must accurately represent your brand, which is why we provide an infinite
+                                    number of design alternatives as part of our web design services. Our staff may, for
+                                    instance, create a sophisticated design for your business that highlights your products'
+                                    high quality and affordable range.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -235,12 +240,13 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Testing & Lunch
+                                    Website Copywriting
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    Laterally, our web design services also provide website copywriting for optimum impact.
+                                    Our crew of copywriters is skilled and knowledgeable. We can produce appealing copy that
+                                    captivates and converts website visitors thanks to their knowledge in both technical and
+                                    non-technical businesses.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -277,54 +283,12 @@
         </div>
         <!-- Process Section End -->
 
-        <!-- Project Start -->
-        <div class="rs-project project-style1 project-modify10 pt-145 pb-150 md-pt-75 md-pb-80">
-            <div class="container">
-                <div class="sec-title text-center mb-50">
-                    <span class="sub-text primary-color">portfolio</span>
-                    <h2 class="title">
-                        Our Latest <span>Projects</span>
-                    </h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 md-mb-30">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port8.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Orla Branding</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port7.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Nike Ari Women</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Project End -->
-
         <!-- Cta Start -->
         <div class="rs-cta cta-style1  blue-bg pt-145 pb-145">
             <div class="container">
                 <div class="sec-title text-center">
                     <h2 class="title title3 white-color pb-45">
-                        Create stunning Design<br>
-                        services with Swipy
+                        Get A Performance-Driven Website For Your Business
                     </h2>
                     <div class="btn-part">
                         <a class="readon orange contact" href="contact.html">Contact Us</a>
@@ -333,16 +297,16 @@
             </div>
             <div class="cta-animation">
                 <div class="animate-style one">
-                    <img class="scale" src="assets/images/cta/shape1.png" alt="">
+                    <img class="scale" src="{{ asset('assets/frontend/images/cta/shape1.png') }}" alt="">
                 </div>
                 <div class="animate-style two">
-                    <img class="scale" src="assets/images/cta/shape2.png" alt="">
+                    <img class="scale" src="{{ asset('assets/frontend/images/cta/shape2.png') }}" alt="">
                 </div>
                 <div class="animate-style three">
-                    <img class="horizontal" src="assets/images/cta/shape3.png" alt="">
+                    <img class="horizontal" src="{{ asset('assets/frontend/images/cta/shape3.png') }}" alt="">
                 </div>
                 <div class="animate-style four">
-                    <img class="spine" src="assets/images/cta/shape4.png" alt="">
+                    <img class="spine" src="{{ asset('assets/frontend/images/cta/shape4.png') }}" alt="">
                 </div>
             </div>
         </div>

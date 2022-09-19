@@ -14,10 +14,13 @@
                         <div class="col-lg-7">
                             <div class="breadcrumbs-wrap mb-48 md-mb-0">
                                 <h2 class="page-title">
-                                    Search Engine Optimization
+                                    Search Devote in Your Future with an SEO Company that Gets Results
                                 </h2>
-                                <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
-                                    pulvinar integer neque them volute pateget.</p>
+                                <p class="description">
+                                    Let's be honest. You are aware of what you require, but you are unsure of how to acquire
+                                    it. That is a common complaint among SEO clients who get in touch with Vibrant
+                                    Technologie.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -54,12 +57,15 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Services details</span>
                                 <h2 class="title pb-35">
-                                    Strategy for the digital brand.
+                                    Give Wings to your Company with Top SEO Agency
                                 </h2>
                                 <p class="desc pb-45">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est nibh, fermentum sit amet
-                                    libero vitae, aliquam dignissim dolor. Morbi commodo arcu velit, nec tempus ligula
-                                    dictum sagittis.
+                                    We are a reputable SEO company that assists websites in significantly raising their
+                                    organic search ranks so they may contend for the highest rankings, even for highly
+                                    competitive keywords. Vibrant Technologie is an accessible one-stop shop for all
+                                    unconventional SEO solutions. Through our tailored strategic approach specific to every
+                                    customer, we assist in maintaining a healthy balance of potential traffic and
+                                    competitiveness.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -95,8 +101,7 @@
                 <div class="sec-title text-center mb-50 md-mb-30">
                     <span class="sub-text primary-color">work process</span>
                     <h2 class="title pb-35">
-                        Let’s Know Our Design<br>
-                        Process
+                        Best Search Engine Optimization Agency
                     </h2>
                 </div>
                 <div class="row y-middle">
@@ -111,12 +116,11 @@
                         <div class="sec-title">
                             <span class="sub-text primary-color">Process</span>
                             <h2 class="title pb-35">
-                                Analysis & Idea
+                                Startup Seo Services
                             </h2>
                             <p class="desc pb-35">
-                                Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                pretium vitae.
+                                Using our team of professionals, convert your visitors into consumers. We'll examine your
+                                website and provide you with tactical SEO services.
                             </p>
                             <ul class="check-lists check-style4">
                                 <li class="list-item">
@@ -147,7 +151,7 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Wireframs & Phototype
+                                    Enterprise Seo Services
                                 </h2>
                                 <p class="desc pb-35">
                                     Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna

@@ -14,10 +14,12 @@
                         <div class="col-lg-7">
                             <div class="breadcrumbs-wrap mb-48 md-mb-0">
                                 <h2 class="page-title">
-                                    Website Development
+                                    Web Development Services
                                 </h2>
-                                <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
-                                    pulvinar integer neque them volute pateget.</p>
+                                <p class="description">
+                                    To achieve high conversion and adoption rates, Vibrant Technologie professionally
+                                    develops and provides ongoing support for customer-facing and enterprise web apps.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -52,14 +54,14 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="sec-title">
-                                <span class="sub-text primary-color">Services details</span>
+                                <span class="sub-text primary-color">Web Development</span>
                                 <h2 class="title pb-35">
-                                    Strategy for the digital brand.
+                                    Cross-platform & Responsive Web Development
                                 </h2>
                                 <p class="desc pb-45">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est nibh, fermentum sit amet
-                                    libero vitae, aliquam dignissim dolor. Morbi commodo arcu velit, nec tempus ligula
-                                    dictum sagittis.
+                                    We offer responsive websites that function effectively across all screen sizes and
+                                    browsers. Whether your users use a PC, tablet, or smartphone is unimportant. We ensure a
+                                    seamless and fantastic experience regardless of the browser customers use on any device.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -95,8 +97,7 @@
                 <div class="sec-title text-center mb-50 md-mb-30">
                     <span class="sub-text primary-color">work process</span>
                     <h2 class="title pb-35">
-                        Let’s Know Our Design<br>
-                        Process
+                        Our Work Speaks For Itself
                     </h2>
                 </div>
                 <div class="row y-middle">
@@ -111,12 +112,13 @@
                         <div class="sec-title">
                             <span class="sub-text primary-color">Process</span>
                             <h2 class="title pb-35">
-                                Analysis & Idea
+                                Secured Development Environment for your Web Project
                             </h2>
                             <p class="desc pb-35">
-                                Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                pretium vitae.
+                                We build websites on test servers so you can view the progress and use them immediately. It
+                                lets you see how the site is structured and make changes before it goes live. Until it is
+                                finished, the website is hosted on our server. The website gets moved to the live server
+                                once it is prepared.
                             </p>
                             <ul class="check-lists check-style4">
                                 <li class="list-item">
@@ -147,12 +149,12 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Wireframs & Phototype
+                                    Web Portals
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium.
+                                    Vibrant Technologie has developed online portals for various groups, including clients,
+                                    business partners, e-commerce customers, clients, vendors, and interest-based
+                                    communities.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -198,12 +200,13 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Development
+                                    CMS-based Website Development
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    To produce engaging content that entices your target audience, we employ a variety of
+                                    Content Management System platforms, including custom-developed CMS, WordPress
+                                    development services, Drupal development services, Joomla development services, and
+                                    OScommerce development services.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -235,12 +238,16 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Testing & Lunch
+                                    E-Commerce Website Development
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    We understand how to build e-commerce websites that genuinely sell your stuff because we
+                                    are one of the top web development companies for businesses. As a web development firm
+                                    for e-commerce, we assist you in expanding your company online by creating an online
+                                    store. Along with providing E-commerce development services, we also offer support for
+                                    local payment gateway connections, logistics management software, and self-service
+                                    content management systems (CMS), which you can use to track sales, add new products,
+                                    and more.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -277,54 +284,12 @@
         </div>
         <!-- Process Section End -->
 
-        <!-- Project Start -->
-        <div class="rs-project project-style1 project-modify10 pt-145 pb-150 md-pt-75 md-pb-80">
-            <div class="container">
-                <div class="sec-title text-center mb-50">
-                    <span class="sub-text primary-color">portfolio</span>
-                    <h2 class="title">
-                        Our Latest <span>Projects</span>
-                    </h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 md-mb-30">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port8.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Orla Branding</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port7.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Nike Ari Women</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Project End -->
-
         <!-- Cta Start -->
         <div class="rs-cta cta-style1  blue-bg pt-145 pb-145">
             <div class="container">
                 <div class="sec-title text-center">
                     <h2 class="title title3 white-color pb-45">
-                        Create stunning Design<br>
-                        services with Swipy
+                        Let's Talk Business!
                     </h2>
                     <div class="btn-part">
                         <a class="readon orange contact" href="contact.html">Contact Us</a>
@@ -333,16 +298,16 @@
             </div>
             <div class="cta-animation">
                 <div class="animate-style one">
-                    <img class="scale" src="assets/images/cta/shape1.png" alt="">
+                    <img class="scale" src="{{ asset('assets/frontend/images/cta/shape1.png') }}" alt="">
                 </div>
                 <div class="animate-style two">
-                    <img class="scale" src="assets/images/cta/shape2.png" alt="">
+                    <img class="scale" src="{{ asset('assets/frontend/images/cta/shape2.png') }}" alt="">
                 </div>
                 <div class="animate-style three">
-                    <img class="horizontal" src="assets/images/cta/shape3.png" alt="">
+                    <img class="horizontal" src="{{ asset('assets/frontend/images/cta/shape3.png') }}" alt="">
                 </div>
                 <div class="animate-style four">
-                    <img class="spine" src="assets/images/cta/shape4.png" alt="">
+                    <img class="spine" src="{{ asset('assets/frontend/images/cta/shape4.png') }}" alt="">
                 </div>
             </div>
         </div>

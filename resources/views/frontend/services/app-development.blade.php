@@ -14,10 +14,12 @@
                         <div class="col-lg-7">
                             <div class="breadcrumbs-wrap mb-48 md-mb-0">
                                 <h2 class="page-title">
-                                    Mobile Application Development
+                                    Delivering Stellar Mobile App Development Services
                                 </h2>
-                                <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
-                                    pulvinar integer neque them volute pateget.</p>
+                                <p class="description">
+                                    We work with major international businesses to create cutting-edge digital products that
+                                    provide flawless user interfaces on all platforms and gadgets.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-5">
@@ -54,12 +56,13 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Services details</span>
                                 <h2 class="title pb-35">
-                                    Strategy for the digital brand.
+                                    Our High-End Mobile App Development Services
                                 </h2>
                                 <p class="desc pb-45">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est nibh, fermentum sit amet
-                                    libero vitae, aliquam dignissim dolor. Morbi commodo arcu velit, nec tempus ligula
-                                    dictum sagittis.
+                                    We provide complete cycle services for application design, integration, and management.
+                                    The company oversees the whole mobile app development process, from conception and
+                                    concept to delivery and continuous support, whether a consumer-focused app or a
+                                    game-changing enterprise-class solution.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -95,8 +98,7 @@
                 <div class="sec-title text-center mb-50 md-mb-30">
                     <span class="sub-text primary-color">work process</span>
                     <h2 class="title pb-35">
-                        Let’s Know Our Design<br>
-                        Process
+                        Mobile Application Development Services For Various Platforms
                     </h2>
                 </div>
                 <div class="row y-middle">
@@ -111,12 +113,11 @@
                         <div class="sec-title">
                             <span class="sub-text primary-color">Process</span>
                             <h2 class="title pb-35">
-                                Analysis & Idea
+                                Native Mobile App Development
                             </h2>
                             <p class="desc pb-35">
-                                Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                pretium vitae.
+                                Per your company's security needs, our mobile app developers can create high-quality native
+                                apps for Android and iOS platforms.
                             </p>
                             <ul class="check-lists check-style4">
                                 <li class="list-item">
@@ -147,12 +148,11 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Wireframs & Phototype
+                                    Hybrid Mobile App Development
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium.
+                                    Thanks to an extraordinary fusion of native and web app technologies, cross-platform
+                                    apps may function in many situations.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -198,12 +198,11 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Development
+                                    Progressive Web App Development
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    With Progressive Web Apps, we can reach anybody, anywhere, on any device, with a single
+                                    codebase, and give native-like capabilities and installability.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -235,12 +234,11 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Testing & Lunch
+                                    Wearables and Embedded Software
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    We can interface with smart devices or specialized peripherals and develop companion
+                                    apps for various wearable technology.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -277,54 +275,12 @@
         </div>
         <!-- Process Section End -->
 
-        <!-- Project Start -->
-        <div class="rs-project project-style1 project-modify10 pt-145 pb-150 md-pt-75 md-pb-80">
-            <div class="container">
-                <div class="sec-title text-center mb-50">
-                    <span class="sub-text primary-color">portfolio</span>
-                    <h2 class="title">
-                        Our Latest <span>Projects</span>
-                    </h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 md-mb-30">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port8.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Orla Branding</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port7.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Nike Ari Women</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Project End -->
-
         <!-- Cta Start -->
         <div class="rs-cta cta-style1  blue-bg pt-145 pb-145">
             <div class="container">
                 <div class="sec-title text-center">
                     <h2 class="title title3 white-color pb-45">
-                        Create stunning Design<br>
-                        services with Swipy
+                        Ready To Make Your Mobile App More Effective?
                     </h2>
                     <div class="btn-part">
                         <a class="readon orange contact" href="contact.html">Contact Us</a>
@@ -333,16 +289,16 @@
             </div>
             <div class="cta-animation">
                 <div class="animate-style one">
-                    <img class="scale" src="assets/images/cta/shape1.png" alt="">
+                    <img class="scale" src="{{ asset('assets/frontend/images/cta/shape1.png') }}" alt="">
                 </div>
                 <div class="animate-style two">
-                    <img class="scale" src="assets/images/cta/shape2.png" alt="">
+                    <img class="scale" src="{{ asset('assets/frontend/images/cta/shape2.png') }}" alt="">
                 </div>
                 <div class="animate-style three">
-                    <img class="horizontal" src="assets/images/cta/shape3.png" alt="">
+                    <img class="horizontal" src="{{ asset('assets/frontend/images/cta/shape3.png') }}" alt="">
                 </div>
                 <div class="animate-style four">
-                    <img class="spine" src="assets/images/cta/shape4.png" alt="">
+                    <img class="spine" src="{{ asset('assets/frontend/images/cta/shape4.png') }}" alt="">
                 </div>
             </div>
         </div>

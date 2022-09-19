@@ -14,7 +14,7 @@
                         <div class="col-lg-6 md-mb-50">
                             <div class="breadcrumbs-wrap">
                                 <h1 class="page-title">
-                                    We are the digital agency
+                                    Get In Touch With Vibrant Technologies
                                 </h1>
                                 <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
                                     pulvinar elementum integer volute pateget.</p>

@@ -14,21 +14,25 @@
                         <div class="col-lg-7">
                             <div class="breadcrumbs-wrap mb-48 md-mb-0">
                                 <h2 class="page-title">
-                                    Design that connects with humans
+                                    Grow Your Consumer Base With Data-Driven and Targeted Strategies
                                 </h2>
-                                <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
-                                    pulvinar integer neque them volute pateget.</p>
+                                <p class="description">
+                                    In collaboration with you, Vibrant Technologie creates a plan and specialized digital
+                                    marketing services tailored to your business requirements.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-5">
                             <div class="about-img">
-                                <img src="{{ asset('assets/frontend/images/breadcrumbs/images/service-details.png') }}" alt="Images">
+                                <img src="{{ asset('assets/frontend/images/breadcrumbs/images/service-details.png') }}"
+                                    alt="Images">
                             </div>
                         </div>
                     </div>
                     <div class="shape-animation">
                         <div class="dot-animate">
-                            <img class="scale" src="{{ asset('assets/frontend/images/breadcrumbs/shape/img2.png') }}" alt="">
+                            <img class="scale" src="{{ asset('assets/frontend/images/breadcrumbs/shape/img2.png') }}"
+                                alt="">
                         </div>
                     </div>
                 </div>
@@ -43,19 +47,22 @@
                     <div class="row y-middle">
                         <div class="col-lg-6 md-mb-50">
                             <div class="ser-details">
-                                <img class="js-tilt" src="{{ asset('assets/frontend/images/services/services-details/img1.png') }}" alt="About">
+                                <img class="js-tilt"
+                                    src="{{ asset('assets/frontend/images/services/services-details/img1.png') }}"
+                                    alt="About">
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="sec-title">
-                                <span class="sub-text primary-color">Services details</span>
+                                <span class="sub-text primary-color">Daigital Marketing</span>
                                 <h2 class="title pb-35">
-                                    Strategy for the digital brand.
+                                    Engage Your Target Customers at the Right Time on the Right Platform
                                 </h2>
                                 <p class="desc pb-45">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est nibh, fermentum sit amet
-                                    libero vitae, aliquam dignissim dolor. Morbi commodo arcu velit, nec tempus ligula
-                                    dictum sagittis.
+                                    Digital marketing services give companies of all sizes the chance to promote their brand
+                                    around-the-clock at a minimal cost. A digital marketing firm may assist businesses of
+                                    any size, from startups to large corporations with various locations, to expand their
+                                    niche market reach and reach their target clients regardless of time zones or geography.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -89,28 +96,30 @@
         <div class="rs-process process-style1 gray-bg14 pt-155 pb-160 md-pt-75 md-pb-80">
             <div class="container">
                 <div class="sec-title text-center mb-50 md-mb-30">
-                    <span class="sub-text primary-color">work process</span>
+                    <span class="sub-text primary-color">Vibrant Technologie</span>
                     <h2 class="title pb-35">
-                        Let’s Know Our Design<br>
-                        Process
+                        Why Choose Vibrant Technologie As Your Digital Marketing Services Agency
                     </h2>
                 </div>
                 <div class="row y-middle">
                     <div class="col-lg-5 md-mb-50">
                         <div class="process-work">
-                            <img class="js-tilt" src="{{ asset('assets/frontend/images/services/services-details/img2.png') }}" alt="About">
+                            <img class="js-tilt"
+                                src="{{ asset('assets/frontend/images/services/services-details/img2.png') }}"
+                                alt="About">
                         </div>
                     </div>
                     <div class="col-lg-7 pl-60 md-pl-15">
                         <div class="sec-title">
                             <span class="sub-text primary-color">Process</span>
                             <h2 class="title pb-35">
-                                Analysis & Idea
+                                Data-driven Digital Marketing Services
                             </h2>
                             <p class="desc pb-35">
-                                Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                pretium vitae.
+                                Data and study are crucial for corporate success. With the help of Vibrant Technologie's
+                                goal-oriented digital marketing services, you can deliver the appropriate message on the
+                                right platform at the right moment. We do a SWOT (Strengths, Weaknesses, Opportunities, and
+                                Threats) analysis of your brand to produce current metrics and yield useful information.
                             </p>
                             <ul class="check-lists check-style4">
                                 <li class="list-item">
@@ -141,12 +150,14 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Wireframs & Phototype
+                                    Industry Experts
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium.
+                                    Vibrant Technologie comprises experts in digital marketing with more than ten years of
+                                    combined expertise. We build goal-oriented plans, stay up to date on the most recent
+                                    developments and trends, and ensure that all our campaigns adhere to search engine
+                                    standards. We can assist you whether you need assistance with Shopify SEO, Walmart
+                                    Marketplace integration, or other digital marketing strategies.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -172,7 +183,9 @@
                         </div>
                         <div class="col-lg-5">
                             <div class="process-work wireframe-img">
-                                <img class="js-tilt" src="{{ asset('assets/frontend/images/services/services-details/img3.png') }}" alt="About">
+                                <img class="js-tilt"
+                                    src="{{ asset('assets/frontend/images/services/services-details/img3.png') }}"
+                                    alt="About">
                             </div>
                         </div>
                     </div>
@@ -181,7 +194,8 @@
                     <div class="row y-middle">
                         <div class="col-lg-5 md-mb-50">
                             <div class="process-work development-img">
-                                <img class="js-tilt" src="{{ asset('assets/frontend/images/services/services-details/img4.png') }}"
+                                <img class="js-tilt"
+                                    src="{{ asset('assets/frontend/images/services/services-details/img4.png') }}"
                                     alt="About">
                             </div>
                         </div>
@@ -189,12 +203,14 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Development
+                                    Custom Digital Marketing Framework
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    Our internet marketing business approaches online marketing from all angles. We evaluate
+                                    your present marketing tactics and online presence, establish key performance indicators
+                                    (KPIs), pinpoint the essence of your brand, and incorporate customer experience at every
+                                    stage of strategy development. We then develop a disciplined marketing framework that
+                                    maximizes all of your digital touchpoints as a result.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -226,12 +242,14 @@
                             <div class="sec-title">
                                 <span class="sub-text primary-color">Process</span>
                                 <h2 class="title pb-35">
-                                    Testing & Lunch
+                                    Omnichannel Personalization
                                 </h2>
                                 <p class="desc pb-35">
-                                    Velit dignissim sodales ut eu sem. Mauris vitae ultricies leo integer. Morbi leo urna
-                                    molestie at elementum. Euismod lacinia at quis risus sed. Nulla facilisi cras fermentum
-                                    pretium. Vitae semper quis lectus nulla at volutpat diam ut venenatis.
+                                    According to facts from a RedPoint Global survey by The Harris Poll, 63 percent of
+                                    customers demand personalized brand experiences as the norm. Vibrant Technologie
+                                    conducts audience studies and needs evaluations to create tailored internet marketing
+                                    tactics that increase sales. Omnichannel personalization promotes brand loyalty and
+                                    generates income.
                                 </p>
                                 <ul class="check-lists check-style4">
                                     <li class="list-item">
@@ -257,7 +275,8 @@
                         </div>
                         <div class="col-lg-6 pl-20 md-pl-15">
                             <div class="process-work testing-img">
-                                <img class="js-tilt" src="{{ asset('assets/frontend/images/services/services-details/img5.png') }}"
+                                <img class="js-tilt"
+                                    src="{{ asset('assets/frontend/images/services/services-details/img5.png') }}"
                                     alt="About">
                             </div>
                         </div>
@@ -267,54 +286,12 @@
         </div>
         <!-- Process Section End -->
 
-        <!-- Project Start -->
-        <div class="rs-project project-style1 project-modify10 pt-145 pb-150 md-pt-75 md-pb-80">
-            <div class="container">
-                <div class="sec-title text-center mb-50">
-                    <span class="sub-text primary-color">portfolio</span>
-                    <h2 class="title">
-                        Our Latest <span>Projects</span>
-                    </h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-6 md-mb-30">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port8.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Orla Branding</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="project-item">
-                            <div class="project-img">
-                                <a href="#">
-                                    <img src="assets/images/project/style1/port7.jpg" alt="Images">
-                                </a>
-                            </div>
-                            <div class="project-content">
-                                <span class="category"><a href="#">Graphic Design</a></span>
-                                <h3 class="title"><a href="#">Nike Ari Women</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Project End -->
-
         <!-- Cta Start -->
         <div class="rs-cta cta-style1  blue-bg pt-145 pb-145">
             <div class="container">
                 <div class="sec-title text-center">
                     <h2 class="title title3 white-color pb-45">
-                        Create stunning Design<br>
-                        services with Swipy
+                        Tell Us About Your Company's Requirements. We Can Assist You In Moving It Along.
                     </h2>
                     <div class="btn-part">
                         <a class="readon orange contact" href="contact.html">Contact Us</a>

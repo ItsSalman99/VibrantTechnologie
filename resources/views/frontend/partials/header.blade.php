@@ -85,7 +85,7 @@
                             </div>
                             <div class="info-content">
                                 <h4 class="title">Email</h4>
-                                <em><a href="mailto:support@devsdesign.net">support@devsdesign.net</a></em>
+                                <em><a href="mailto:support@devsdesign.net">info@vibranttechnologie.com</a></em>
                             </div>
                         </div>
                         <div class="address-list">
