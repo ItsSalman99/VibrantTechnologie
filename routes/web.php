@@ -8,6 +8,7 @@ Route::get('/', [HomeController::class, 'index']);
 Route::get('/about-us', [HomeController::class, 'about'])->name('about');
 
 Route::get('/contact', [ContactController::class, 'index'])->name('contact');
+Route::post('/send-mail', [ContactController::class, 'sendMail'])->name('send-mail');
 
 Route::get('/services', [HomeController::class, 'services'])->name('services');
 Route::get('/services/digital-marketing', [HomeController::class, 'DigitalMarketingService'])->name('digital-marketing');
@@ -19,3 +20,6 @@ Route::get('/services/web-development', [HomeController::class, 'WebsiteDevelopm
 Route::get('/services/app-development', [HomeController::class, 'AppDevelopmentService'])->name('app-development');
 Route::get('/services/ecommerce', [HomeController::class, 'eCommerceService'])->name('ecom');
 Route::get('/services/seo', [HomeController::class, 'seoService'])->name('seo');
+
+Route::get('/terms-conditions', [HomeController::class, 'termsconditions'])->name('termsconditions');
+Route::get('/privacy', [HomeController::class, 'privacy'])->name('privacy');

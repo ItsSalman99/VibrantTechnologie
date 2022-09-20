@@ -123,16 +123,19 @@
                     </h2>
                 </div>
                 <div class="row y-middle">
-                    <div class="col-xl-3 col-md-6 xl-mb-30">
+                    <div class="col-xl-4 col-md-6 xl-mb-30">
                         <div class="services-item">
-                            <div class="services-wrap">
+                            <div class="services-wrap" style="height: 450px;">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/graphic-design.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
                                     <h2 class="title">Graphics <br> Designing</h2>
-                                    <p class="services-txt">Mauris commodo quis the imperdiet tincidunt.</p>
+                                    <p class="services-txt">
+                                        Our creative designers can design anything, whether you desire a flat design, a
+                                        skeuomorphic experience, a brutalist style, or a simple feel.
+                                    </p>
                                 </div>
                                 <div class="services-button">
                                     <a href="{{ route('graphics-design') }}">
@@ -145,16 +148,20 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6 xl-mb-30">
+                    <div class="col-xl-4 col-md-6 xl-mb-30">
                         <div class="services-item">
-                            <div class="services-wrap">
+                            <div class="services-wrap" style="height: 450px;">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/digital-marketing.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
                                     <h2 class="title">Digital <br> Marketing</h2>
-                                    <p class="services-txt">Mauris commodo quis the imperdiet tincidunt.</p>
+                                    <p class="services-txt">
+                                        Let's be truthful. You are alert of what you require, but you are unsure of how to
+                                        acquire it. That is a common complaint among SEO clients who get in touch with
+                                        Vibrant Technologies.
+                                    </p>
                                 </div>
                                 <div class="services-button">
                                     <a href="{{ route('digital-marketing') }}">
@@ -167,16 +174,19 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6 sm-mb-30">
+                    <div class="col-xl-4 col-md-6 sm-mb-30">
                         <div class="services-item">
-                            <div class="services-wrap">
+                            <div class="services-wrap" style="height: 450px;">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/video-production.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
                                     <h2 class="title">Video <br> Production</h2>
-                                    <p class="services-txt">Mauris commodo quis the imperdiet tincidunt.</p>
+                                    <p class="services-txt">
+                                        Surge the effectiveness of your digital marketing campaigns by utilizing video. We
+                                        are a creative company that creates top-notch video content from beginning to end.
+                                    </p>
                                 </div>
                                 <div class="services-button">
                                     <a href="{{ route('video-production') }}">
@@ -189,16 +199,20 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6">
+                    <div class="col-xl-4 col-md-6">
                         <div class="services-item">
-                            <div class="services-wrap">
+                            <div class="services-wrap" style="height: 450px;">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/uiux-design.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
                                     <h2 class="title">UI/UX <br> Design</h2>
-                                    <p class="services-txt">Mauris commodo quis the imperdiet tincidunt.</p>
+                                    <p class="services-txt">
+                                        With Vibrant Technologie's UI/UX development services, you can streamline your
+                                        technologically complicated goods while increasing online traffic with dynamic
+                                        features and contemporary design aesthetics.
+                                    </p>
                                 </div>
                                 <div class="services-button">
                                     <a href="{{ route('ux-design') }}">
@@ -211,16 +225,19 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6" style="margin-top: 20px;">
+                    <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap">
+                            <div class="services-wrap" style="height: 450px;">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/web-design.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
                                     <h2 class="title">Website <br> Designing</h2>
-                                    <p class="services-txt">Mauris commodo quis the imperdiet tincidunt.</p>
+                                    <p class="services-txt">
+                                        It entails creating and maintaining websites that enhance their functionality and
+                                        aesthetic appeal while providing a solid user experience.
+                                    </p>
                                 </div>
                                 <div class="services-button">
                                     <a href="{{ route('web-design') }}">
@@ -233,16 +250,19 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6" style="margin-top: 20px;">
+                    <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap">
+                            <div class="services-wrap" style="height: 450px;">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/web-development.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
                                     <h2 class="title">Website Development</h2>
-                                    <p class="services-txt">Mauris commodo quis the imperdiet tincidunt.</p>
+                                    <p class="services-txt">
+                                        We make websites and softwares with the implementation of business logic and
+                                        functionality that gives you more leads with the quality.
+                                    </p>
                                 </div>
                                 <div class="services-button">
                                     <a href="{{ route('web-design') }}">
@@ -255,16 +275,19 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6" style="margin-top: 20px;">
+                    <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap">
+                            <div class="services-wrap" style="height: 450px;">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/app-development.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
                                     <h2 class="title">Mobile App Development</h2>
-                                    <p class="services-txt">Mauris commodo quis the imperdiet tincidunt.</p>
+                                    <p class="services-txt">
+                                        Writing software for portable, wireless computing devices are part of creating
+                                        mobile apps.
+                                    </p>
                                 </div>
                                 <div class="services-button">
                                     <a href="{{ route('app-development') }}">
@@ -277,9 +300,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6" style="margin-top: 20px;">
+                    <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap">
+                            <div class="services-wrap" style="height: 450px;">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/ecommerce.png') }}"
                                         alt="Images">
@@ -299,16 +322,20 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-6" style="margin-top: 20px;">
+                    <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap">
+                            <div class="services-wrap" style="height: 450px;">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/seo.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
                                     <h2 class="title">SEO</h2>
-                                    <p class="services-txt">Mauris commodo quis the imperdiet tincidunt.</p>
+                                    <p class="services-txt">
+                                        Let's be truthful. You are alert of what you require, but you are unsure of how to
+                                        acquire it. That is a common complaint among SEO clients who get in touch with
+                                        Vibrant Technologies.
+                                    </p>
                                 </div>
                                 <div class="services-button">
                                     <a href="{{ route('ecom') }}">
@@ -363,12 +390,12 @@
                                 <div class="card">
                                     <div class="card-header">
                                         <a class="card-link collapsed" href="#" data-bs-toggle="collapse"
-                                            data-bs-target="#collapseTwo" aria-expanded="false">Designing & Development</a>
+                                            data-bs-target="#collapseTwo" aria-expanded="false">Designing</a>
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-bs-parent="#accordion" style="">
                                         <div class="card-body">
-                                            Sit amet mauris commodo quis imperdiet massa tincidunt. Ut
-                                            enim blandit volutpat maecenas.
+                                            With the help of the designing services provided by Vibrant Technologie,
+                                            establish your online presence today and learn about your market potential.
                                         </div>
                                     </div>
                                 </div>
@@ -379,8 +406,8 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-bs-parent="#accordion" style="">
                                         <div class="card-body">
-                                            Sit amet mauris commodo quis imperdiet massa tincidunt. Ut
-                                            enim blandit volutpat maecenas.
+                                            To achieve high conversion and adoption rates, Vibrant Technologie
+                                            professionally develops and provides ongoing support for your business needs.
                                         </div>
                                     </div>
                                 </div>
@@ -391,8 +418,9 @@
                                     </div>
                                     <div id="collapseFour" class="collapse" data-bs-parent="#accordion" style="">
                                         <div class="card-body">
-                                            Sit amet mauris commodo quis imperdiet massa tincidunt. Ut
-                                            enim blandit volutpat maecenas.
+                                            We build websites on test servers so you can view the progress and use them
+                                            immediately. It lets you see how the site is structured and make changes before
+                                            it goes live.
                                         </div>
                                     </div>
                                 </div>
@@ -410,10 +438,10 @@
                 <div class="sec-title text-center">
                     <h2 class="title title3 white-color pb-45">
                         Create stunning Design<br>
-                        services with Swipy
+                        with Vibrant Technologies
                     </h2>
                     <div class="btn-part">
-                        <a class="readon orange contact" href="contact.html">Contact Us</a>
+                        <a class="readon orange contact" href="{{ route('contact') }}">Contact Us</a>
                     </div>
                 </div>
             </div>

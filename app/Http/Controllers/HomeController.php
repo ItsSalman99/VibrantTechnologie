@@ -25,7 +25,7 @@ class HomeController extends Controller
     {
         return view('frontend.services.digital-marketing');
     }
-    
+
     public function VideoProductionService()
     {
         return view('frontend.services.video-production');
@@ -35,7 +35,7 @@ class HomeController extends Controller
     {
         return view('frontend.services.graphics-designing');
     }
-    
+
     public function UxDesignService()
     {
         return view('frontend.services.ux-design');
@@ -45,7 +45,7 @@ class HomeController extends Controller
     {
         return view('frontend.services.web-design');
     }
-    
+
     public function WebsiteDevelopmentService()
     {
         return view('frontend.services.web-development');
@@ -60,10 +60,20 @@ class HomeController extends Controller
     {
         return view('frontend.services.ecommerce');
     }
-    
+
     public function seoService()
     {
         return view('frontend.services.seo');
     }
-    
+
+    public function termsconditions()
+    {
+        return view('frontend.termsconditions');
+    }
+
+    public function privacy()
+    {
+        return view('frontend.privacypolicy');
+    }
+
 }

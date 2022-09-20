@@ -22,11 +22,12 @@
                                 <div class="content-part">
                                     <div class="slider-des">
                                         <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">Graphics<br>Designing.</h2>
+                                        <h2 class="sl-title">Graphics<br>Designing</h2>
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
+                                                Started</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -47,11 +48,12 @@
                                 <div class="content-part">
                                     <div class="slider-des">
                                         <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">UI/UX<br>Designing.</h2>
+                                        <h2 class="sl-title">UI/UX<br>Designing</h2>
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
+                                                Started</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -72,11 +74,12 @@
                                 <div class="content-part">
                                     <div class="slider-des">
                                         <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">Website<br>Designing.</h2>
+                                        <h2 class="sl-title">Website<br>Designing</h2>
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
+                                                Started</a>
                                         </li>
                                         {{-- <li>
                                             <a class="readon orange-hire resume2" href="{{ route('contact') }}"><span
@@ -102,11 +105,12 @@
                                 <div class="content-part">
                                     <div class="slider-des">
                                         <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">Website<br>Development.</h2>
+                                        <h2 class="sl-title">Website<br>Development</h2>
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
+                                                Started</a>
                                         </li>
                                         {{-- <li>
                                                             <a class="readon orange-hire resume2" href="{{ route('contact') }}"><span
@@ -132,11 +136,12 @@
                                 <div class="content-part">
                                     <div class="slider-des">
                                         <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">App<br>Development.</h2>
+                                        <h2 class="sl-title">App<br>Development</h2>
                                     </div>
                                     <ul class="slider-bottom">
                                         <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get Started</a>
+                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
+                                                Started</a>
                                         </li>
                                         {{-- <li>
                                                                             <a class="readon orange-hire resume2" href="{{ route('contact') }}"><span
@@ -166,215 +171,7 @@
                         help you.
                     </h2>
                 </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 mb-35">
-                        <div class="services-item">
-                            <div class="services-wrap">
-                                <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/digital-marketing.png') }}"
-                                        alt="Images">
-                                </div>
-                                <div class="services-content">
-                                    <h2 class="title"><a href="{{ route('digital-marketing') }}">Digital Marketing</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
-                                    </p>
-                                    <div class="services-button">
-                                        <a href="{{ route('digital-marketing') }}">
-                                            <span class="btn-text">
-                                                Read More
-                                            </span>
-                                            <i class="fi fi-rr-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mb-35">
-                        <div class="services-item">
-                            <div class="services-wrap">
-                                <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/video-production.png') }}"
-                                        alt="Images">
-                                </div>
-                                <div class="services-content">
-                                    <h2 class="title"><a href="{{ route('video-production') }}">Video Production</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
-                                    </p>
-                                    <div class="services-button">
-                                        <a href="{{ route('video-production') }}">
-                                            <span class="btn-text">
-                                                Read More
-                                            </span>
-                                            <i class="fi fi-rr-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 mb-35">
-                        <div class="services-item">
-                            <div class="services-wrap">
-                                <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/graphic-design.png') }}"
-                                        alt="Images">
-                                </div>
-                                <div class="services-content">
-                                    <h2 class="title"><a href="{{ route('graphics-design') }}">Graphics Design</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
-                                    </p>
-                                    <div class="services-button">
-                                        <a href="{{ route('graphics-design') }}">
-                                            <span class="btn-text">
-                                                Read More
-                                            </span>
-                                            <i class="fi fi-rr-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 md-mb-35">
-                        <div class="services-item">
-                            <div class="services-wrap">
-                                <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/uiux-design.png') }}"
-                                        alt="Images">
-                                </div>
-                                <div class="services-content">
-                                    <h2 class="title"><a href="{{ route('ux-design') }}">UX Design</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
-                                    </p>
-                                    <div class="services-button">
-                                        <a href="{{ route('ux-design') }}">
-                                            <span class="btn-text">
-                                                Read More
-                                            </span>
-                                            <i class="fi fi-rr-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 sm-mb-35">
-                        <div class="services-item">
-                            <div class="services-wrap">
-                                <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/web-design.png') }}"
-                                        alt="Images">
-                                </div>
-                                <div class="services-content">
-                                    <h2 class="title"><a href="{{ route('web-design') }}">Web Designing</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
-                                    </p>
-                                    <div class="services-button">
-                                        <a href="{{ route('web-design') }}">
-                                            <span class="btn-text">
-                                                Read More
-                                            </span>
-                                            <i class="fi fi-rr-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 sm-mb-35">
-                        <div class="services-item">
-                            <div class="services-wrap">
-                                <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/web-development.png') }}"
-                                        alt="Images">
-                                </div>
-                                <div class="services-content">
-                                    <h2 class="title"><a href="{{ route('web-development') }}">Web Development</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
-                                    </p>
-                                    <div class="services-button">
-                                        <a href="{{ route('web-development') }}">
-                                            <span class="btn-text">
-                                                Read More
-                                            </span>
-                                            <i class="fi fi-rr-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 20px;">
-                        <div class="services-item">
-                            <div class="services-wrap">
-                                <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/app-development.png') }}"
-                                        alt="Images">
-                                </div>
-                                <div class="services-content">
-                                    <h2 class="title"><a href="{{ route('app-development') }}">Mobile App Development</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
-                                    </p>
-                                    <div class="services-button">
-                                        <a href="{{ route('app-development') }}">
-                                            <span class="btn-text">
-                                                Read More
-                                            </span>
-                                            <i class="fi fi-rr-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 20px;">
-                        <div class="services-item">
-                            <div class="services-wrap">
-                                <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/ecommerce.png') }}"
-                                        alt="Images">
-                                </div>
-                                <div class="services-content">
-                                    <h2 class="title"><a href="{{ route('ecom') }}">eCommerce</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
-                                    </p>
-                                    <div class="services-button">
-                                        <a href="{{ route('ecom') }}">
-                                            <span class="btn-text">
-                                                Read More
-                                            </span>
-                                            <i class="fi fi-rr-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 20px;">
-                        <div class="services-item">
-                            <div class="services-wrap">
-                                <div class="services-img">
-                                    <img src="{{ asset('assets/frontend/images/services/main-home/seo.png') }}"
-                                        alt="Images">
-                                </div>
-                                <div class="services-content">
-                                    <h2 class="title"><a href="{{ route('digital-marketing') }}">SEO</a></h2>
-                                    <p class="services-txt"> Ullamcorper malesuada proin libero nunc. Quis ipsum suspen.
-                                    </p>
-                                    <div class="services-button">
-                                        <a href="{{ route('seo') }}">
-                                            <span class="btn-text">
-                                                Read More
-                                            </span>
-                                            <i class="fi fi-rr-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                @include('frontend.partials.services')
             </div>
         </div>
         <!-- Services Section End -->

@@ -42,23 +42,6 @@
                     <div class="col-cell">
                         <div class="expand-btn-inner">
                             <ul>
-                                <li class="search-parent">
-                                    <a class="hidden-xs rs-search" href="#">
-                                        <i class="fi fi-rr-search"></i>
-                                    </a>
-                                    <div class="sticky_form">
-                                        <form role="search" class="bs-search search-form" method="get">
-                                            <div class="search-wrap">
-                                                <label class="screen-reader-text active">
-                                                    Search for: </label>
-                                                <input type="search" placeholder="Searching..." name="s"
-                                                    class="search-input" value="">
-                                                <button type="submit" value="Search"><i
-                                                        class="fi fi-rr-search"></i></button>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </li>
                                 <li class="nav-link">
                                     <a id="nav-expander" class="nav-expander bar" href="#">
                                         <div class="bar">
@@ -103,7 +86,7 @@
                             </div>
                             <div class="info-content">
                                 <h4 class="title">Email</h4>
-                                <em><a href="mailto:support@devsdesign.net">support@devsdesign.net</a></em>
+                                <em><a href="mailto:support@vibranttechnologie.com">support@vibranttechnologie.com</a></em>
                             </div>
                         </div>
                         <div class="address-list">

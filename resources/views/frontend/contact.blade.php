@@ -22,13 +22,16 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="team-img">
-                                <img class="js-tilt" src="{{ asset('assets/frontend/images/breadcrumbs/images/contact.png') }}" alt="Images">
+                                <img class="js-tilt"
+                                    src="{{ asset('assets/frontend/images/breadcrumbs/images/contact.png') }}"
+                                    alt="Images">
                             </div>
                         </div>
                     </div>
                     <div class="shape-animation">
                         <div class="team-animate">
-                            <img class="scale" src="{{ asset('assets/frontend/images/breadcrumbs/shape/img5.png') }}" alt="">
+                            <img class="scale" src="{{ asset('assets/frontend/images/breadcrumbs/shape/img5.png') }}"
+                                alt="">
                         </div>
                     </div>
                 </div>
@@ -81,8 +84,8 @@
                     <div class="col-lg-6">
                         <div class="content-wrap">
                             <div id="form-messages"></div>
-                            <form id="contact-form" method="post"
-                                action="https://rstheme.com/products/html/swipy/mailer.php">
+                            <form method="post" action="{{ route('send-mail') }}">
+                                @csrf
                                 <fieldset>
                                     <div class="row">
                                         <div class="col-lg-12 mb-30">

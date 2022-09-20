@@ -20,12 +20,11 @@
             <div class="testimonial-item">
                 <div class="testi-content">
                     <div class="image-wrap">
-                        <img src="{{ asset('assets/frontend/images/testimonial/style1/testi1.png') }}"
+                        <img src="{{ asset('assets/frontend/images/testimonial/style1/1.jpg') }}"
                             alt="Testimonial">
                     </div>
                     <div class="testi-information">
                         <div class="testi-name">Mark Agroiks</div>
-                        <span class="testi-title">CEO, Agrok Inc.</span>
                     </div>
                 </div>
                 <div class="item-content-basic">
@@ -46,12 +45,11 @@
             <div class="testimonial-item">
                 <div class="testi-content">
                     <div class="image-wrap">
-                        <img src="{{ asset('assets/frontend/images/testimonial/style1/testi2.png') }}"
+                        <img src="{{ asset('assets/frontend/images/testimonial/style1/2.jpg') }}"
                             alt="Testimonial">
                     </div>
                     <div class="testi-information">
                         <div class="testi-name">Billu Gol</div>
-                        <span class="testi-title">CEO, Agrok Inc.</span>
                     </div>
                 </div>
                 <div class="item-content-basic">
@@ -62,8 +60,7 @@
                             src="{{ asset('assets/frontend/images/testimonial/style1/quote6.png') }}" alt="Testimonial">
                     </span>
                     <p>
-                        The most exemplary method for business promotion and website creation is digital marketing. We
-                        were having some website development problems with our company website, so we searched for the
+                        We were having some website development problems with our company website, so we searched for the
                         best company to address the issue. We have finally discovered Vibrant Technologie's digital
                         marketing service for our company. The Vibrant Technologie Team is exceptional; they create a
                         unique plan for the website's business development and provide regular updates on project
@@ -74,12 +71,11 @@
             <div class="testimonial-item">
                 <div class="testi-content">
                     <div class="image-wrap">
-                        <img src="{{ asset('assets/frontend/images/testimonial/style1/testi3.png') }}"
+                        <img src="{{ asset('assets/frontend/images/testimonial/style1/3.jpg') }}"
                             alt="Testimonial">
                     </div>
                     <div class="testi-information">
                         <div class="testi-name">Ani Jhon</div>
-                        <span class="testi-title">CEO, Apce.co</span>
                     </div>
                 </div>
                 <div class="item-content-basic">
@@ -100,12 +96,11 @@
             <div class="testimonial-item">
                 <div class="testi-content">
                     <div class="image-wrap">
-                        <img src="{{ asset('assets/frontend/images/testimonial/style1/testi1.png') }}"
+                        <img src="{{ asset('assets/frontend/images/testimonial/style1/4.jpg') }}"
                             alt="Testimonial">
                     </div>
                     <div class="testi-information">
                         <div class="testi-name">Mark Agroiks</div>
-                        <span class="testi-title">CEO, Agrok Inc.</span>
                     </div>
                 </div>
                 <div class="item-content-basic">
@@ -127,12 +122,11 @@
             <div class="testimonial-item">
                 <div class="testi-content">
                     <div class="image-wrap">
-                        <img src="{{ asset('assets/frontend/images/testimonial/style1/testi2.png') }}"
+                        <img src="{{ asset('assets/frontend/images/testimonial/style1/5.jpg') }}"
                             alt="Testimonial">
                     </div>
                     <div class="testi-information">
                         <div class="testi-name">Billu Gol</div>
-                        <span class="testi-title">CEO, Agrok Inc.</span>
                     </div>
                 </div>
                 <div class="item-content-basic">
@@ -154,12 +148,11 @@
             <div class="testimonial-item">
                 <div class="testi-content">
                     <div class="image-wrap">
-                        <img src="{{ asset('assets/frontend/images/testimonial/style1/testi3.png') }}"
+                        <img src="{{ asset('assets/frontend/images/testimonial/style1/6.jpg') }}"
                             alt="Testimonial">
                     </div>
                     <div class="testi-information">
                         <div class="testi-name">Ani Jhon</div>
-                        <span class="testi-title">CEO, Apce.co</span>
                     </div>
                 </div>
                 <div class="item-content-basic">
