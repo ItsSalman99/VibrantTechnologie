@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Jost:300,400,500,600,700,800,900&amp;display=swap');
 @charset "utf-8";
 
-/** 
-* 
+/**
+*
 * -----------------------------------------------------------------------------
 *
 * Template : Swipy - Creative Agency HTML Template
@@ -12,7 +12,7 @@
   Author URI : http://www.rstheme.com/
 *
 * -----------------------------------------------------------------------------
-* 
+*
 **/
 /* TABLE OF CONTENT
 ---------------------------------------------------------
@@ -11240,7 +11240,7 @@ body .search-modal .close:hover {
 }
 
 .rs-footer.footer-main-home .footer-top .footer-logo a img {
-    width: 40%;
+    width: 20%;
 }
 
 .rs-footer.footer-main-home .footer-top .footer-title {

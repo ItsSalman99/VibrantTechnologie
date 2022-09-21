@@ -9,9 +9,9 @@
                     <div class="col-cell header-logo">
                         <div class="logo-area">
                             <a href="/">
-                                <img class="normal-logo" src="{{ asset('assets/frontend/images/logo.png') }}"
+                                <img class="normal-logo" src="{{ asset('assets/frontend/images/logovib.png') }}"
                                     alt="logo">
-                                <img class="sticky-logo" src="{{ asset('assets/frontend/images/logo.png') }}"
+                                <img class="sticky-logo" src="{{ asset('assets/frontend/images/logovib.png') }}"
                                     alt="logo">
                             </a>
                         </div>
@@ -74,8 +74,12 @@
                     <a href="/"><img src="{{ asset('assets/frontend/images/logo.png') }}" alt="logo"></a>
                 </div>
                 <div class="offcanvas-text">
-                    <p>Suspendisse interdum consectetur libero id. Fermentum leo vel orci porta non. Euismod viverra
-                        nibh cras pulvinar suspen.</p>
+                    <p>
+                        You can boost your sales volume and create a solid digital basis with value-driven internet
+                        marketing services. Spending money on marketing strategies that don't produce quantifiable
+                        outcomes is wasted. Join Vibrant Technologie today to build your market dominance with our
+                        laser-focused digital marketing solutions.
+                    </p>
                 </div>
                 <div class="canvas-contact">
                     <div class="address-area">
@@ -86,7 +90,8 @@
                             </div>
                             <div class="info-content">
                                 <h4 class="title">Email</h4>
-                                <em><a href="mailto:support@vibranttechnologie.com">support@vibranttechnologie.com</a></em>
+                                <em><a
+                                        href="mailto:support@vibranttechnologie.com">support@vibranttechnologie.com</a></em>
                             </div>
                         </div>
                         <div class="address-list">
@@ -134,49 +139,14 @@
                 <li>
                     <a href="/">Home</a>
                 </li>
-                <li class="last-item menu-item-has-children">
-                    <a href="#">About</a>
-                    <ul class="sub-menu">
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="about-me.html">About Me</a></li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children current-menu-item">
-                    <a href="#">Pages</a>
-                    <ul class="sub-menu">
-                        <li class="active"><a href="services.html">Services</a></li>
-                        <li><a href="services-details.html">Services Details</a></li>
-                        <li><a href="team.html">Team</a></li>
-                        <li><a href="team-single.html">Team Single</a></li>
-                        <li><a href="price-table.html">Price Table</a></li>
-                        <li><a href="price-table-switcher.html">Price Table Switcher</a></li>
-                        <li><a href="testimonial.html">Testimonial</a></li>
-                        <li class="last-item menu-item-has-children">
-                            <a href="#">Shop</a>
-                            <ul class="sub-menu">
-                                <li><a href="shop.html">Shop</a></li>
-                                <li><a href="shop-single.html">Shop Single</a></li>
-                                <li><a href="cart.html">Cart</a></li>
-                                <li><a href="checkout.html">Checkout</a></li>
-                                <li><a href="my-account.html">My Account</a></li>
-                            </ul>
-                        </li>
-                    </ul>
+                <li>
+                    <a href="{{ route('about') }}">About</a>
                 </li>
                 <li>
-                    <a href="blog.html">Blog</a>
-                </li>
-                <li class="last-item menu-item-has-children">
-                    <a href="#">Portfolio</a>
-                    <ul class="sub-menu">
-                        <li><a href="portfolio-two-column.html">Portfolio Two Column</a></li>
-                        <li><a href="portfolio-three-column.html">Portfolio Three Column</a></li>
-                        <li><a href="portfolio-four-column.html">Portfolio Four Column</a></li>
-                        <li><a href="portfolio-single-column.html">Portfolio Single Column</a></li>
-                    </ul>
+                    <a href="{{ route('services') }}">Services</a>
                 </li>
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="{{ route('contact') }}">Contact</a>
                 </li>
             </ul> <!-- //.nav-menu -->
             <!-- //.nav-menu -->

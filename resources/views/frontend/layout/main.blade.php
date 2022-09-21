@@ -11,7 +11,8 @@
     <div id="pre-load">
         <div id="loader" class="loader">
             <div class="loader-container">
-                <div class="loader-icon"><img src="{{ asset('assets/frontend/images/fav.png') }}" alt="Swipy Creative Agency Html Template ">
+                <div class="loader-icon"><img src="{{ asset('assets/frontend/images/fav.png') }}"
+                        alt="Swipy Creative Agency Html Template ">
                 </div>
             </div>
         </div>
@@ -62,7 +63,5 @@
     @include('sweetalert::alert')
 
 </body>
-
-<!-- Mirrored from rstheme.com/products/html/swipy/index-15.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 14 Sep 2022 13:10:54 GMT -->
 
 </html>

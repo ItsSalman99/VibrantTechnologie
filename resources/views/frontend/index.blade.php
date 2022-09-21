@@ -238,7 +238,7 @@
                                 <div class="services-item">
                                     <div class="services-wrap">
                                         <div class="services-img">
-                                            <img src="{{ asset('assets/frontend/images/services/style3/ser1.png') }}"
+                                            <img src="{{ asset('assets/frontend/images/services/style1/innovation.png') }}"
                                                 alt="Images">
                                         </div>
                                         <div class="services-content">
@@ -251,7 +251,7 @@
                                 <div class="services-item">
                                     <div class="services-wrap">
                                         <div class="services-img">
-                                            <img src="{{ asset('assets/frontend/images/services/style3/ser2.png') }}"
+                                            <img src="{{ asset('assets/frontend/images/services/style1/quality.png') }}"
                                                 alt="Images">
                                         </div>
                                         <div class="services-content">
@@ -264,7 +264,7 @@
                                 <div class="services-item">
                                     <div class="services-wrap">
                                         <div class="services-img">
-                                            <img src="{{ asset('assets/frontend/images/services/style3/ser3.png') }}"
+                                            <img src="{{ asset('assets/frontend/images/services/style1/client.png') }}"
                                                 alt="Images">
                                         </div>
                                         <div class="services-content">
@@ -277,7 +277,7 @@
                                 <div class="services-item">
                                     <div class="services-wrap">
                                         <div class="services-img">
-                                            <img src="{{ asset('assets/frontend/images/services/style3/ser4.png') }}"
+                                            <img src="{{ asset('assets/frontend/images/services/style1/office.png') }}"
                                                 alt="Images">
                                         </div>
                                         <div class="services-content">
@@ -294,75 +294,6 @@
         <!-- Services Section End -->
 
         @include('frontend.partials.testimonial')
-
-        <!-- Partner Start -->
-        <div class="rs-partner partner-main-home pt-60 pb-20">
-            <div class="container custom">
-                <div class="slider partner-slide-1">
-                    <div class="partner-item">
-                        <div class="logo-img">
-                            <a href="https://devsdesign.net/">
-                                <img class="hovers-logos rs-grid-img"
-                                    src="{{ asset('assets/frontend/images/partner/style1/1.png') }}" title=""
-                                    alt="">
-                                <img class="mains-logos rs-grid-img "
-                                    src="{{ asset('assets/frontend/images/partner/style1/1.png') }}" title=""
-                                    alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="partner-item">
-                        <div class="logo-img">
-                            <a href="https://devsdesign.net/">
-                                <img class="hovers-logos rs-grid-img"
-                                    src="{{ asset('assets/frontend/images/partner/style1/2.png') }}" title=""
-                                    alt="">
-                                <img class="mains-logos rs-grid-img "
-                                    src="{{ asset('assets/frontend/images/partner/style1/2.png') }}" title=""
-                                    alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="partner-item">
-                        <div class="logo-img">
-                            <a href="https://devsdesign.net/">
-                                <img class="hovers-logos rs-grid-img"
-                                    src="{{ asset('assets/frontend/images/partner/style1/3.png') }}" title=""
-                                    alt="">
-                                <img class="mains-logos rs-grid-img "
-                                    src="{{ asset('assets/frontend/images/partner/style1/3.png') }}" title=""
-                                    alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="partner-item">
-                        <div class="logo-img">
-                            <a href="https://devsdesign.net/">
-                                <img class="hovers-logos rs-grid-img"
-                                    src="{{ asset('assets/frontend/images/partner/style1/4.png') }}" title=""
-                                    alt="">
-                                <img class="mains-logos rs-grid-img "
-                                    src="{{ asset('assets/frontend/images/partner/style1/4.png') }}" title=""
-                                    alt="">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="partner-item">
-                        <div class="logo-img">
-                            <a href="https://devsdesign.net/">
-                                <img class="hovers-logos rs-grid-img"
-                                    src="{{ asset('assets/frontend/images/partner/style1/5.png') }}" title=""
-                                    alt="">
-                                <img class="mains-logos rs-grid-img "
-                                    src="{{ asset('assets/frontend/images/partner/style1/5.png') }}" title=""
-                                    alt="">
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Partner End -->
 
         <!-- Cta Start -->
         <div class="rs-cta cta-style1 red-bg pt-145 pb-145">

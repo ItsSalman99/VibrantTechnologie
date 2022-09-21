@@ -14,10 +14,11 @@
                         <div class="col-lg-6 md-mb-50">
                             <div class="breadcrumbs-wrap">
                                 <h1 class="page-title">
-                                    Get In Touch With Vibrant Technologies
+                                    We're All About Relationships and Results
                                 </h1>
-                                <p class="description">Enim tortor at auctor urna nunc id metus. Purus ut faucibus<br>
-                                    pulvinar elementum integer volute pateget.</p>
+                                <p class="description">
+                                    We help you build your brand and gather potential clients for your business.
+                                </p>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -46,12 +47,11 @@
                     <div class="col-lg-6 pr-135 md-pr-15 md-mb-50">
                         <div class="sec-title">
                             <h2 class="title title2 pb-35">
-                                Let’s talk<br>
-                                about your project
+                                Let's Have A Conversation!
                             </h2>
                             <p class="desc pb-60">
-                                Curabitur vitae nunc sed velit dignissim sodales. Urna neque viverra justo nec. In cursus
-                                massa tincidunt ut ornare the butter leo integer.
+                                Our team is available for you and will deliver proven results every time. What are you
+                                waiting for? Get in touch with us now!
                             </p>
                         </div>
                         <div class="address-boxs mb-30">

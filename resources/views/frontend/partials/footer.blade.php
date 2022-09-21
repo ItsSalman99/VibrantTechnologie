@@ -5,12 +5,12 @@
                 <div class="row">
                     <div class="col-lg-3 pr-20 md-pr-15 md-mb-20">
                         <div class="footer-logo mb-85 md-mb-65">
-                            <a href="/"><img src="{{ asset('assets/frontend/images/logo.png') }}"
-                                    alt=""></a>
+                            <a href="/"><img src="{{ asset('assets/frontend/images/logovib.png') }}" alt=""></a>
                         </div>
                         <p class="text-white">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium aliquid alias beatae
-                            hic.
+                            The award-winning digital marketing firm Vibrant Technologie provides a broad range of
+                            data-driven web marketing services. We create web marketing splans that are focused on
+                            business growth and have a beneficial effect on companies.
                         </p>
                         <ul class="footer-social md-mb-30">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
