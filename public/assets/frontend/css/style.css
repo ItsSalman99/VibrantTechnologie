@@ -1204,7 +1204,7 @@ blockquote p {
 
 .readon.view-pro {
     font-family: "Jost", Sans-serif;
-    background-color: #DD4447;
+    background-color: #4e80ae;
     border-radius: 10px 10px 10px 10px;
     padding: 19px 36px 19px 36px;
 }
@@ -2116,7 +2116,7 @@ blockquote p {
     font-size: 20px;
     font-weight: 500;
     line-height: 30px;
-    color: #ff7425;
+    color: #4e80ae;
     text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
     margin: 0 0 10px;
@@ -5161,7 +5161,7 @@ body .search-modal .close:hover {
 }
 
 .rs-slider.slider-style2 {
-    background-image: url(/assets/frontend/images/slider/style2/slide-bg.jpg);
+    background-image: url(/assets/frontend/images/slider/style2/bg.jpeg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -5623,7 +5623,7 @@ body .search-modal .close:hover {
 }
 
 .rs-slider.slider-style4 .owl-nav {
-    display: block;
+    display: none; /* to remove owl nav */
 }
 
 .rs-slider.slider-style4 .owl-nav .owl-next,
@@ -7648,14 +7648,18 @@ body .search-modal .close:hover {
 /* ------------------------------------
 	17. Services Section CSS
 ---------------------------------------*/
-.rs-services.services-main-home .services-item {
+.services-item {
     margin: 0 8px 0 8px;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s, -webkit-box-shadow 0.3s;
     border-radius: 30px 30px 30px 30px;
     box-shadow: 38px 45px 93px -10px rgba(0, 0, 0, 0.05);
 }
 
-.rs-services.services-main-home .services-item .services-wrap {
+.services-item .services-wrap {
+    border: 1px solid #eee;
+    border-radius: 10px;
+    padding: 10px;
+    height: 580px!important;
     text-align: center;
     padding: 60px 60px 55px 60px;
     border-radius: 30px 30px 30px 30px;
@@ -7664,32 +7668,32 @@ body .search-modal .close:hover {
     background-image: linear-gradient(137deg, #ffffff 0%, #ffffff 73 100%);
 }
 
-.rs-services.services-main-home .services-item .services-wrap .services-img img {
+.services-item .services-wrap .services-img img {
     height: 110px;
     width: 110px;
     max-width: unset;
 }
 
-.rs-services.services-main-home .services-item .services-wrap .services-content {
+.services-item .services-wrap .services-content {
     margin: 28px 0px 0px 0px;
 }
 
-.rs-services.services-main-home .services-item .services-wrap .services-content .title {
+.services-item .services-wrap .services-content .title {
     font-size: 30px;
     font-weight: 500;
     line-height: 35px;
     margin: 0 0 21px;
 }
 
-.rs-services.services-main-home .services-item .services-wrap .services-content .title a {
+.services-item .services-wrap .services-content .title a {
     color: #19082d;
 }
 
-.rs-services.services-main-home .services-item .services-wrap .services-content .title a:hover {
+.services-item .services-wrap .services-content .title a:hover {
     color: #6722b5;
 }
 
-.rs-services.services-main-home .services-item .services-wrap .services-content .services-txt {
+.services-item .services-wrap .services-content .services-txt {
     font-size: 16px;
     font-weight: 400;
     line-height: 26px;
@@ -7697,47 +7701,48 @@ body .search-modal .close:hover {
     margin-bottom: 20px;
 }
 
-.rs-services.services-main-home .services-item:hover {
+.services-item:hover {
     background-color: #fff;
     box-shadow: 25px 25px 81px 0px rgba(95, 63, 176, 0.2);
+    border-radius: 30px;
 }
 
-.rs-services.services-main-home.services-modify2 .services-item {
+.services-modify2 .services-item {
     border-radius: 30px 30px 30px 30px;
     box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.07);
 }
 
-.rs-services.services-main-home.services-modify2 .services-item .services-wrap .services-content .title a:hover {
+.services-modify2 .services-item .services-wrap .services-content .title a:hover {
     color: #4f4bff;
 }
 
-.rs-services.services-main-home.services-modify2 .services-button a:hover i:before,
-.rs-services.services-main-home.services-modify2 .services-button a:hover .btn-text {
+.services-modify2 .services-button a:hover i:before,
+.services-modify2 .services-button a:hover .btn-text {
     color: #4f4bff;
 }
 
-.rs-services.services-style1 .services-item {
+.services-style1 .services-item {
     margin: 0 2px 0 2px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.06);
 }
 
-.rs-services.services-style1 .services-item .services-wrap {
+.services-style1 .services-item .services-wrap {
     text-align: left;
     padding: 30px 30px 50px 30px;
     background-color: transparent;
 }
 
-.rs-services.services-style1 .services-item .services-wrap .services-icon img {
+.services-style1 .services-item .services-wrap .services-icon img {
     height: 58px;
     width: 58px;
     max-width: unset;
 }
 
-.rs-services.services-style1 .services-item .services-wrap .services-text {
+.services-style1 .services-item .services-wrap .services-text {
     margin: 20px 0px 0px 0px;
 }
 
-.rs-services.services-style1 .services-item .services-wrap .services-text .title {
+.services-style1 .services-item .services-wrap .services-text .title {
     font-size: 25px;
     font-weight: 500;
     line-height: 35px;
@@ -12927,3 +12932,4 @@ body .search-modal .close:hover {
     color: #ffffff;
     box-shadow: 0px 20px 40px rgba(103, 34, 181, 0.2);
 }
+

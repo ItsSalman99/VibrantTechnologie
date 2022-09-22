@@ -125,7 +125,7 @@
                 <div class="row y-middle">
                     <div class="col-xl-4 col-md-6 xl-mb-30">
                         <div class="services-item">
-                            <div class="services-wrap" style="height: 450px;">
+                            <div class="services-wrap" style="height: 500px!important">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/graphic-design.png') }}"
                                         alt="Images">
@@ -150,7 +150,7 @@
                     </div>
                     <div class="col-xl-4 col-md-6 xl-mb-30">
                         <div class="services-item">
-                            <div class="services-wrap" style="height: 450px;">
+                            <div class="services-wrap" style="height: 500px!important">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/digital-marketing.png') }}"
                                         alt="Images">
@@ -176,7 +176,7 @@
                     </div>
                     <div class="col-xl-4 col-md-6 sm-mb-30">
                         <div class="services-item">
-                            <div class="services-wrap" style="height: 450px;">
+                            <div class="services-wrap" style="height: 500px!important">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/video-production.png') }}"
                                         alt="Images">
@@ -201,7 +201,7 @@
                     </div>
                     <div class="col-xl-4 col-md-6">
                         <div class="services-item">
-                            <div class="services-wrap" style="height: 450px;">
+                            <div class="services-wrap" style="height: 500px!important">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/uiux-design.png') }}"
                                         alt="Images">
@@ -227,7 +227,7 @@
                     </div>
                     <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap" style="height: 450px;">
+                            <div class="services-wrap" style="height: 500px!important">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/web-design.png') }}"
                                         alt="Images">
@@ -252,7 +252,7 @@
                     </div>
                     <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap" style="height: 450px;">
+                            <div class="services-wrap" style="height: 500px!important">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/web-development.png') }}"
                                         alt="Images">
@@ -277,7 +277,7 @@
                     </div>
                     <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap" style="height: 450px;">
+                            <div class="services-wrap" style="height: 500px!important">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/app-development.png') }}"
                                         alt="Images">
@@ -302,14 +302,17 @@
                     </div>
                     <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap" style="height: 450px;">
+                            <div class="services-wrap" style="height: 500px!important">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/ecommerce.png') }}"
                                         alt="Images">
                                 </div>
                                 <div class="services-content">
                                     <h2 class="title">Ecommerce <br> Services</h2>
-                                    <p class="services-txt">Mauris commodo quis the imperdiet tincidunt.</p>
+                                    <p class="services-txt">
+                                        Let us help you to get <br> Industry-Specific Ecommerce Store Development & Design
+                                        Solutions!
+                                    </p>
                                 </div>
                                 <div class="services-button">
                                     <a href="{{ route('ecom') }}">
@@ -324,7 +327,7 @@
                     </div>
                     <div class="col-xl-4 col-md-6" style="margin-top: 20px;">
                         <div class="services-item">
-                            <div class="services-wrap" style="height: 450px;">
+                            <div class="services-wrap" style="height: 500px!important">
                                 <div class="services-img">
                                     <img src="{{ asset('assets/frontend/images/services/main-home/seo.png') }}"
                                         alt="Images">

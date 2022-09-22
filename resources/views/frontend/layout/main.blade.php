@@ -11,8 +11,9 @@
     <div id="pre-load">
         <div id="loader" class="loader">
             <div class="loader-container">
-                <div class="loader-icon"><img src="{{ asset('assets/frontend/images/fav.png') }}"
-                        alt="Swipy Creative Agency Html Template ">
+                <div class="loader-icon">
+                    <img src="{{ asset('assets/frontend/images/logovib.png') }}"
+                        alt="Vibrant Technologie">
                 </div>
             </div>
         </div>

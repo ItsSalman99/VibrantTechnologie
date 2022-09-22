@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-lg-4 col-md-6 sm-mb-35">
         <div class="services-item">
-            <div class="services-wrap" style="height: 500px;">
+            <div class="services-wrap">
                 <div class="services-img">
                     <img src="{{ asset('assets/frontend/images/services/main-home/web-design.png') }}" alt="Images">
                 </div>
@@ -125,7 +125,7 @@
             </div>
         </div>
     </div>
-    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 20px;">
+    <div class="col-lg-4 col-md-6 sm-mb-35">
         <div class="services-item">
             <div class="services-wrap" style="height: 500px;">
                 <div class="services-img">
@@ -134,7 +134,7 @@
                 <div class="services-content">
                     <h2 class="title"><a href="{{ route('ecom') }}">eCommerce</a></h2>
                     <p class="services-txt">
-                        Get Industry-Specific Ecommerce Store Development & Design Solutions!
+                        Let us help you to get <br> Industry-Specific Ecommerce Store Development & Design Solutions!
                     </p>
                     <div class="services-button">
                         <a href="{{ route('ecom') }}">
@@ -148,7 +148,7 @@
             </div>
         </div>
     </div>
-    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 20px;">
+    <div class="col-lg-4 col-md-6 sm-mb-35">
         <div class="services-item">
             <div class="services-wrap" style="height: 500px;">
                 <div class="services-img">
@@ -199,7 +199,7 @@
             </div>
         </div>
     </div>
-    <div class="col-lg-4 col-md-6 sm-mb-35" style="margin-top: 20px;">
+    <div class="col-lg-4 col-md-6 sm-mb-35">
         <div class="services-item">
             <div class="services-wrap" style="height: 500px;">
                 <div class="services-img">

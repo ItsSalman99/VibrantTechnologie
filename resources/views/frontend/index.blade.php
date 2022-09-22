@@ -6,161 +6,10 @@
 
         @include('frontend.partials.header')
 
-        <!-- Slider Start -->
-        <div id="rs-slider" class="rs-slider slider-style3">
-            <div class="slider-carousel3 owl-carousel">
-                <!-- Slide 1 -->
-                <div class="slider slide1">
-                    <div class="container">
-                        <div class="row y-middle">
-                            <div class="col-lg-6 order-last">
-                                <div class="image-part">
-                                    <img src="{{ asset('assets/frontend/images/graphic-design.svg') }}" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="content-part">
-                                    <div class="slider-des">
-                                        <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">Graphics<br>Designing</h2>
-                                    </div>
-                                    <ul class="slider-bottom">
-                                        <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
-                                                Started</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Slide 2 -->
-                <div class="slider slide1">
-                    <div class="container">
-                        <div class="row y-middle">
-                            <div class="col-lg-6 order-last">
-                                <div class="image-part">
-                                    <img src="{{ asset('assets/frontend/images/ux-design.png') }}" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="content-part">
-                                    <div class="slider-des">
-                                        <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">UI/UX<br>Designing</h2>
-                                    </div>
-                                    <ul class="slider-bottom">
-                                        <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
-                                                Started</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Slide 3 -->
-                <div class="slider slide2">
-                    <div class="container">
-                        <div class="row y-middle">
-                            <div class="col-lg-6 order-last">
-                                <div class="image-part">
-                                    <img src="{{ asset('assets/frontend/images/website-designing.png') }}" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="content-part">
-                                    <div class="slider-des">
-                                        <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">Website<br>Designing</h2>
-                                    </div>
-                                    <ul class="slider-bottom">
-                                        <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
-                                                Started</a>
-                                        </li>
-                                        {{-- <li>
-                                            <a class="readon orange-hire resume2" href="{{ route('contact') }}"><span
-                                                    class="btn-text">View Portfolio</span><i
-                                                    class="fa flaticon-right-arrow"></i></a>
-                                        </li> --}}
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Slide 4 -->
-                <div class="slider slide2">
-                    <div class="container">
-                        <div class="row y-middle">
-                            <div class="col-lg-6 order-last">
-                                <div class="image-part">
-                                    <img src="{{ asset('assets/frontend/images/website-development.png') }}" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="content-part">
-                                    <div class="slider-des">
-                                        <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">Website<br>Development</h2>
-                                    </div>
-                                    <ul class="slider-bottom">
-                                        <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
-                                                Started</a>
-                                        </li>
-                                        {{-- <li>
-                                                            <a class="readon orange-hire resume2" href="{{ route('contact') }}"><span
-                                                                    class="btn-text">View Portfolio</span><i
-                                                                    class="fa flaticon-right-arrow"></i></a>
-                                                        </li> --}}
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Slide 5-->
-                <div class="slider slide2">
-                    <div class="container">
-                        <div class="row y-middle">
-                            <div class="col-lg-6 order-last">
-                                <div class="image-part">
-                                    <img src="{{ asset('assets/frontend/images/app-development.png') }}" alt="">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="content-part">
-                                    <div class="slider-des">
-                                        <span class="sl-sub-title">We Do</span>
-                                        <h2 class="sl-title">App<br>Development</h2>
-                                    </div>
-                                    <ul class="slider-bottom">
-                                        <li>
-                                            <a class="readon orange-hire get-red" href="{{ route('contact') }}">Get
-                                                Started</a>
-                                        </li>
-                                        {{-- <li>
-                                                                            <a class="readon orange-hire resume2" href="{{ route('contact') }}"><span
-                                                                                    class="btn-text">View Portfolio</span><i
-                                                                                    class="fa flaticon-right-arrow"></i></a>
-                                                                        </li> --}}
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Slider End -->
-
+        @include('frontend.partials.slider')
 
         <!-- Services Section Start -->
-        <div class="rs-services services-main-home bg1 pt-145 pb-150 md-pt-75 md-pb-80">
+        <div class="" style="margin-top: 100px; margin-bottom: 100px;">
             <div class="container custom">
                 <div class="sec-title text-center mb-55 md-mb-35">
                     <span class="sub-text">
@@ -217,7 +66,7 @@
         <div class="rs-services services-style3 services-modify4 black-bg4 pt-125 pb-130 md-pt-70 md-pb-80">
             <div class="container">
                 <div class="row y-middle">
-                    <div class="col-lg-4 pr-18 md-pr-15 md-mb-50">
+                    <div class="col-lg-6 pr-18 md-pr-15 md-mb-50">
                         <div class="sec-title2">
                             <h2 class="title title3 white-color pb-35">
                                 Why Choose Us?
@@ -232,61 +81,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-8">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 mb-40">
-                                <div class="services-item">
-                                    <div class="services-wrap">
-                                        <div class="services-img">
-                                            <img src="{{ asset('assets/frontend/images/services/style1/innovation.png') }}"
-                                                alt="Images">
-                                        </div>
-                                        <div class="services-content">
-                                            <h2 class="title">Innovation is our key</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 mb-40">
-                                <div class="services-item">
-                                    <div class="services-wrap">
-                                        <div class="services-img">
-                                            <img src="{{ asset('assets/frontend/images/services/style1/quality.png') }}"
-                                                alt="Images">
-                                        </div>
-                                        <div class="services-content">
-                                            <h2 class="title">Quality Matters</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 md-mb-40">
-                                <div class="services-item">
-                                    <div class="services-wrap">
-                                        <div class="services-img">
-                                            <img src="{{ asset('assets/frontend/images/services/style1/client.png') }}"
-                                                alt="Images">
-                                        </div>
-                                        <div class="services-content">
-                                            <h2 class="title">Happy Clients</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6">
-                                <div class="services-item">
-                                    <div class="services-wrap">
-                                        <div class="services-img">
-                                            <img src="{{ asset('assets/frontend/images/services/style1/office.png') }}"
-                                                alt="Images">
-                                        </div>
-                                        <div class="services-content">
-                                            <h2 class="title">Offices World Wide</h2>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="col-lg-6">
+                        <img src="{{ asset('assets/frontend/images/about/about-4.png') }}" alt="">
                     </div>
                 </div>
             </div>

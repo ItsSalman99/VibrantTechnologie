@@ -13,11 +13,8 @@
                             business growth and have a beneficial effect on companies.
                         </p>
                         <ul class="footer-social md-mb-30">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a target="__blank" href="https://www.facebook.com/vibrantltd/"><i class="fa fa-facebook"></i></a></li>
+                            <li><a target="__blank" href="http://instagram.com/vibrant.technologies"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 md-mb-10 pl-90 md-pl-15">
@@ -41,13 +38,12 @@
                         <ul class="address-widget">
                             <li>
                                 <div class="desc">
-                                    Ta-134/A, Gulshan Badda<br>Link
-                                    Rd, Dhaka
+                                    Karachi Sindh Pakistan
                                 </div>
                             </li>
                             <li>
                                 <div class="desc">
-                                    <a href="tel:(+880)15569569365">(+880)155 69569 365</a><br>
+                                    <a href="tel:02136684479">02136684479</a><br>
                                 </div>
                             </li>
                             <li>

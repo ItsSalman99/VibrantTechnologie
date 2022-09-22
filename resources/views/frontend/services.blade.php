@@ -43,7 +43,7 @@
         <!-- Breadcrumbs End -->
 
         <!-- Services Section Start -->
-        <div class="rs-services services-main-home bg1 pt-145 pb-150 md-pt-75 md-pb-80">
+        <div class="">
             <div class="container custom">
                 <div class="sec-title text-center mb-55 md-mb-35">
                     <span class="sub-text">

@@ -288,7 +288,7 @@
                         Tell Us What You Want, and We'll Build It for You
                     </h2>
                     <div class="btn-part">
-                        <a class="readon orange contact" href="contact.html">Contact Us</a>
+                        <a class="readon orange contact" href="{{ route('contact') }}">Contact Us</a>
                     </div>
                 </div>
             </div>

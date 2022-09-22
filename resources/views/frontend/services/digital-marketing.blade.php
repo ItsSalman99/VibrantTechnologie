@@ -294,7 +294,7 @@
                         Tell Us About Your Company's Requirements. We Can Assist You In Moving It Along.
                     </h2>
                     <div class="btn-part">
-                        <a class="readon orange contact" href="contact.html">Contact Us</a>
+                        <a class="readon orange contact" href="{{ route('contact') }}">Contact Us</a>
                     </div>
                 </div>
             </div>
